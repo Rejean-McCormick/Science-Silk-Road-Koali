@@ -28,3 +28,5 @@
 - Chronological priority is treated as unproven until commit-level evidence is assembled.
 - “Knowledge sovereignty” and “civilizational capability” are not used as the primary framing because they introduce unnecessary normative assumptions.
 - The main analytical terms are **capability trajectory**, **capability–dependency configuration**, **functional distribution of authority**, **institutional reproduction**, and **reconfiguration capacity**.
+- Kristal is framed as an **informal epistemic record / invention-disclosure format**, never as an informal patent office or substitute for legal patent filing.
+- The Kristal + SemantiK proposition is presented as a **structured, AI-ready, multilingual knowledge-exchange architecture** to be empirically investigated, not as an already proven global science infrastructure.

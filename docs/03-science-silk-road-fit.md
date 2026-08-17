@@ -68,3 +68,60 @@ The framework should not operationalize a presumption that Chinese involvement i
 - mixed vendor ecosystems.
 
 This symmetry is necessary both analytically and in dialogue with Han Cheng's critiques of reductive geopolitical narratives.
+
+
+## 6. A concrete cross-border knowledge primitive: Kristal
+
+The capability framework above concerns institutions and long-term trajectories. Kristal adds a more immediate, testable infrastructure proposition: **what exactly moves between scientific partners?**
+
+A conventional answer is documents, datasets, publications, software, instruments, people, and training. A Kristal introduces another unit of exchange: a portable structured epistemic artifact that can represent scientific knowledge before final publication or institutional recognition.
+
+A plausible collaboration flow is:
+
+```text
+Lab A formulates a hypothesis, theory, technical claim,
+or invention disclosure
+        │
+        ▼
+structured Kristal with creator, provenance, sources,
+evidence, scope, certainty, status, and lineage
+        │
+        ├── private / restricted collaboration
+        ├── review and validation
+        ├── AI-assisted query or analysis
+        ├── federation with related or conflicting Kristals
+        └── deterministic multilingual rendering
+        │
+        ▼
+Lab B can inspect and reuse the knowledge structure
+without treating it automatically as validated fact
+```
+
+This is relevant to the Science Silk Road because linguistic and institutional boundaries can otherwise force repeated reinterpretation of the same knowledge through prose, translation, local databases, and platform-specific metadata. A Kristal-based exchange model attempts to preserve the semantic and epistemic structure underneath those renderings.
+
+For clarity, this dossier may refer to the combined pattern as a **semantic Kristal**: the Kristal carries the structured epistemic object, while SenTient/semantic identifiers and SemantiK Architect support resolution and multilingual rendering. The term is descriptive here, not a new Kristal v5 artifact type.
+
+The combination is therefore:
+
+```text
+Kristal
+= structured, portable, traceable, queryable, AI-ready epistemic artifact
+
+SemantiK Architect
+= deterministic renderer from structured meaning into target-language text
+
+Konnaxion
+= distribution, discovery, access, and reader-policy layer
+
+Orgo
+= workflow around review, validation, publication, and operational follow-through
+```
+
+This should be treated as an **architectural proposition to investigate**, not as evidence that such an exchange layer already governs international science. Empirical work could test whether structured artifacts actually reduce translation loss, lower integration costs, preserve provenance better than document-centric workflows, or redistribute scientific agency between partner institutions.
+
+### Inventions and patent strategy
+
+Kristal can represent an **invention disclosure or pre-patent research record** and preserve its authorship/provenance history. That is different from registering a patent. Patent rights arise through the applicable patent system, not through the existence of a Kristal artifact. WIPO further advises that public disclosure before filing can compromise novelty in many jurisdictions; patent-sensitive Kristals would therefore require restricted reader/distribution policies when confidentiality matters.
+
+- https://www.wipo.int/en/web/patents/faq_patents
+- https://www.wipo.int/en/web/patents/protection

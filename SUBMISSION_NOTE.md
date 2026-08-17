@@ -23,6 +23,10 @@ Because kOA had to make such transitions operational, it formalized distinctions
 - receipts and critical transitions: https://github.com/Rejean-McCormick/kOA-Linux/blob/main/docs/02-system/20-receipts-and-critical-transitions.md
 - Konnaxion journeys: https://initkoa.org/platforms/konnaxion/journeys
 
+One concrete example is **Kristal**, kOA's portable structured epistemic artifact model. Kristal v5 can represent hypotheses, scientific claims, research material, technical declarations, and disputed positions before final recognition while preserving provenance, certainty, scope, evidence, authority references, and lineage. Its documentation describes the format as AI-ready and queryable; paired with SemantiK Architect, the same structured meaning can be rendered into target-language text while retaining epistemic labels. This suggests a practical Science Silk Road question: whether cross-border scientific cooperation could exchange not only papers and datasets, but also structured, machine-readable, multilingual knowledge objects during earlier stages of research.
+
+An invention disclosure can be represented in that same structure, but this should not be confused with patent registration: a Kristal is not a patent-office filing or a substitute for patent law. Patent-sensitive artifacts may also require restricted distribution before filing because public disclosure can affect novelty.
+
 This design trajectory leads to a research proposition that I believe complements, rather than duplicates, your project:
 
 > **How do transnational scientific infrastructures redistribute and reproduce the capabilities to operate, maintain, interpret, validate, adapt, govern, transmit, and reconfigure scientific activity across partner institutions over time?**

@@ -56,7 +56,9 @@ The evidence supports saying that kOA is:
 - documented through public repositories, wikis, technical specifications, schemas, and context packs;
 - implemented to varying degrees across Konnaxion, Orgo, Kristal, SemantiK, kOA-Linux, and related systems;
 - actively developed and increasingly integrated;
-- already explicit about authority, provenance, lifecycle, portability, institutional memory, and capability-related workflows.
+- already explicit about authority, provenance, lifecycle, portability, institutional memory, and capability-related workflows;
+- explicit in Kristal v5 about portable **AI-ready**, queryable epistemic artifacts that may contain hypotheses, claims, disputed positions, research material, and technical declarations before final recognition;
+- explicit in the Kristal × Architect integration contract about deterministic target-language rendering that preserves validation, authority, certainty, scope, and disputed status.
 
 ## 4. What should not be claimed without additional proof
 
@@ -66,7 +68,10 @@ Avoid saying that:
 - every documented invariant is fully enforced in deployed code;
 - the complete ecosystem has already been validated at institutional scale;
 - the architecture empirically proves its social theory;
-- all concepts were first formulated two years ago unless timestamped evidence is assembled.
+- all concepts were first formulated two years ago unless timestamped evidence is assembled;
+- Kristal constitutes a patent application, patent-office filing, legal registration, or guarantee of patent priority;
+- public publication of a patent-sensitive Kristal is harmless to patentability across jurisdictions;
+- deterministic multilingual rendering by itself proves semantic equivalence or scientific validity across every supported language.
 
 ## 5. Why the limitation strengthens the research proposal
 

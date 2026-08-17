@@ -103,3 +103,42 @@ The official Science Silk Road project studies new infrastructures, networks, an
 This dossier adds a mechanism-focused question:
 
 > **Through which transitions do infrastructures become durable scientific capabilities, and how are authority and dependency redistributed during those transitions?**
+
+
+## 7. From scientific outputs to portable epistemic objects
+
+The first diagram in this document emphasizes late-stage outputs such as publications, patents, datasets, and projects. Yet scientific knowledge usually exists in a meaningful form **before** those outputs are finalized: as hypotheses, theories, claims, technical declarations, invention disclosures, research notes, disputed interpretations, or partially validated results.
+
+Kristal provides a concrete architectural model for representing this intermediate layer:
+
+```text
+unstructured or early-stage scientific knowledge
+→ Structured Epistemic State
+→ working Kristal
+→ review / evidence / validation / recognition
+→ reference or federated Kristal
+→ query, AI use, distribution, and multilingual rendering
+```
+
+The important distinction is:
+
+```text
+portable record ≠ validated fact ≠ institutional recognition ≠ legal right
+```
+
+Kristal v5 explicitly permits hypotheses, claims, disputed assertions, and research material while preserving status, certainty, provenance, authority, scope, evidence references, and lineage. Compilation can therefore precede final recognition. This makes a Kristal suitable as an **informal epistemic record** of a theory or an invention disclosure without implying that the theory has been scientifically validated or that the invention has been legally patented.
+
+For the Science Silk Road context, this matters because knowledge exchange need not be reduced to document exchange. A partner institution could receive a structured object whose claims, evidence, uncertainty, provenance, and authority labels remain machine-readable and queryable. SemantiK Architect can then render the same structured meaning into target-language text while preserving the epistemic labels required by the rendering contract.
+
+The phrase **semantic Kristal** can therefore be used descriptively for the end-to-end pattern—structured Kristal semantics plus resolution and multilingual rendering—but it should not be confused with a distinct artifact class in the Kristal v5 specification.
+
+This suggests an additional research question:
+
+> **Can portable, provenance-preserving, AI-ready, multilingual epistemic artifacts change who can inspect, translate, reuse, contest, and build upon scientific knowledge across transnational collaborations?**
+
+### Patent-sensitive material
+
+The term **invention disclosure** is deliberately used instead of “informal patent registration.” A Kristal does not replace a patent application or create patent rights. WIPO also cautions that public disclosure before filing may destroy novelty in many jurisdictions. Where patent protection may be sought, access and distribution policy therefore become part of the knowledge-governance problem itself.
+
+- https://www.wipo.int/en/web/patents/faq_patents
+- https://www.wipo.int/en/web/patents/protection

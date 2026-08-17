@@ -84,7 +84,47 @@ Who knows? Who can act? Who authorizes? Who owns the data?
 What evidence survives? What dependencies deepen or weaken?
 ```
 
+
 ---
+
+## Concrete knowledge-exchange proposition: Kristal
+
+One concrete implication of the kOA architecture for transnational science is that scientific knowledge does not need to wait until it becomes a paper, database release, or formally recognized result before it can be represented in a portable form.
+
+A **Kristal** can encode a working scientific object such as a research hypothesis, theory, claim, technical declaration, or invention disclosure as a structured epistemic artifact with explicit provenance, scope, certainty, status, authority references, evidence, and lineage. Kristal v5 explicitly separates artifact existence from validation and recognition, so an artifact can be structurally valid and shareable while its assertions remain explicitly labeled `hypothesis`, `claimed`, `sourced`, or `disputed`, or while the artifact itself remains under review, rather than being presented as established fact.
+
+```text
+research note / theory / hypothesis / invention disclosure
+                         │
+                         ▼
+             Structured Epistemic State
+                         │
+                         ▼
+              working Kristal artifact
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+      review /       query / AI     federation /
+     validation          use         distribution
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+              SemantiK Architect
+                         │
+                         ▼
+         deterministic multilingual rendering
+```
+
+This creates a possible **semantic exchange layer for science**: institutions can circulate structured knowledge objects across languages and technical environments without collapsing uncertainty, disagreement, provenance, or authority into undifferentiated prose. The Kristal documentation describes the format as **AI-ready** and queryable; SemantiK Architect provides language-independent-to-language rendering with deterministic multilingual goals.
+
+In this dossier, **semantic Kristal** is useful shorthand for this combined capability—Kristal as the structured epistemic object plus semantic resolution/rendering around it. It is **not** presented as a separate Kristal v5 artifact type.
+
+### Intellectual-property boundary
+
+A Kristal may document an **invention disclosure or pre-patent research record**, but it is **not** a patent application, patent-office filing, legal registration, or guarantee of patent priority. WIPO advises that public disclosure before filing can destroy novelty in many jurisdictions, subject to jurisdiction-specific exceptions or grace periods. Patent-sensitive Kristals should therefore be governed by appropriate confidentiality and reader/distribution policies until the relevant filing or disclosure decision has been made.
+
+- WIPO patent FAQ: https://www.wipo.int/en/web/patents/faq_patents
+- WIPO, *How to Protect Inventions through Patents*: https://www.wipo.int/en/web/patents/protection
 
 ## Current public anchors
 

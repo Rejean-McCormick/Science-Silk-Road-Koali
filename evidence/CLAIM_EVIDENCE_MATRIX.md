@@ -12,6 +12,11 @@ The purpose of this matrix is to keep the submission defensible. “Evidence” 
 | Konnaxion does not collapse baseline voting into expertise-weighted reading | `Konnaxion/wiki/Smart-Vote.md`; public Konnaxion journeys | **Directly documented** |
 | EkoH/K-Port separates evidence sources, admissibility, and scoring authority | `K-Port/docs/00-ekoh-expertise-claims-app-alignment.md` | **Directly documented; K-Port doc is draft** |
 | Kristal preserves provenance, certainty, validation, authority, scope, and lineage | Kristal wiki / public Konnaxion overview | **Directly documented** |
+| Kristal can represent hypotheses, claims, scientific claims, technical declarations, and research material before final recognition | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/01-core-spec/assertion-status-and-certainty.md`; `structured-epistemic-state.md` | **Directly documented** |
+| Kristal is designed as an AI-ready, queryable, portable epistemic artifact rather than free text | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/00-overview/ecosystem-integration.md` | **Directly documented** |
+| A working Kristal can exist before final recognition/validation | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/00-overview/ecosystem-integration.md`; `01-core-spec/structured-epistemic-state.md` | **Directly documented** |
+| SemantiK Architect renders structured meaning into target-language text with deterministic/multilingual goals | `SemantiK_Architect/wiki/What-SemantiK-Architect-Is.md`; Kristal `06-integration/architect-rendering-contract.md` | **Directly documented** |
+| Kristal can serve as an informal epistemic record for an invention disclosure, but not as a legal patent filing | Architectural interpretation + WIPO patent filing/public-disclosure guidance | **Bounded interpretation; not a patent-law function of Kristal** |
 | Orgo converts signals and decisions into accountable cases/tasks and recurring review | `Orgo/wiki/Home.md` and v3 technical reference | **Directly documented** |
 | kOA architecture can generate a theory of capability trajectories | Derived from the above architecture | **Research interpretation** |
 | Capability gain and dependency can increase simultaneously | Not proved by kOA | **Research hypothesis** |

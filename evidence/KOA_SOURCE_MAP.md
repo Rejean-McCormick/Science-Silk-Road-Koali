@@ -51,6 +51,9 @@ This file maps the research claims in this dossier to the supplied kOA source ar
 | Authority registries | `kristal-framework/wiki/Artifact-Authority-Registry.md` | https://github.com/Rejean-McCormick/kristal-framework/wiki/Artifact-Authority-Registry |
 | Plural authority / disagreement preservation | `kristal-framework/wiki/Concepts-and-Mental-Model.md`; Konnaxion public overview | https://initkoa.org/platforms/konnaxion |
 | Determinism / identity | `kristal-framework/wiki/Identity-and-Determinism.md` | https://github.com/Rejean-McCormick/kristal-framework/wiki/Identity-and-Determinism |
+| Hypotheses / claims / scientific assertions as explicit states | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/01-core-spec/assertion-status-and-certainty.md` | https://github.com/Rejean-McCormick/kristal-framework/tree/main/docs/Technical-Reference/kristal-docs-v5/01-core-spec |
+| Structured research material before final recognition | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/01-core-spec/structured-epistemic-state.md` | https://github.com/Rejean-McCormick/kristal-framework/tree/main/docs/Technical-Reference/kristal-docs-v5/01-core-spec |
+| AI-ready / queryable / exchange-oriented Kristal role | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/00-overview/ecosystem-integration.md` | https://github.com/Rejean-McCormick/kristal-framework/tree/main/docs/Technical-Reference/kristal-docs-v5/00-overview |
 
 ## 6. Execution and organizational learning
 
@@ -67,6 +70,8 @@ This file maps the research claims in this dossier to the supplied kOA source ar
 | Semantic sovereignty | `kOA-Linux/wiki/Semantic-Sovereignty.md` | https://github.com/Rejean-McCormick/kOA-Linux/wiki/Semantic-Sovereignty |
 | Multilingual operation | `kOA-Linux/wiki/Multilingual-Operation.md` | https://github.com/Rejean-McCormick/kOA-Linux/wiki/Multilingual-Operation |
 | Deterministic multilingual rendering | `SemantiK_Architect/wiki/Home.md` and technical docs | https://github.com/Rejean-McCormick/SemantiK_Architect |
+| Language-independent meaning → multilingual text | `SemantiK_Architect/wiki/What-SemantiK-Architect-Is.md`; `Conceptual-Flow-Meaning-to-Text.md` | https://github.com/Rejean-McCormick/SemantiK_Architect/wiki |
+| Kristal → Architect rendering with epistemic labels preserved | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/06-integration/architect-rendering-contract.md` | https://github.com/Rejean-McCormick/kristal-framework/tree/main/docs/Technical-Reference/kristal-docs-v5/06-integration |
 
 ## 8. Current version anchors
 

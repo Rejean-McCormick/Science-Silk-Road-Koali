@@ -45,3 +45,17 @@
 - Konnaxion Smart Vote — https://github.com/Rejean-McCormick/Konnaxion/wiki/Smart-Vote
 - Kristal artifacts — https://github.com/Rejean-McCormick/kristal-framework/wiki/Artifacts
 - Kristal authority registry — https://github.com/Rejean-McCormick/kristal-framework/wiki/Artifact-Authority-Registry
+
+
+## Kristal scientific-exchange / multilingual anchors
+
+- Kristal v5 ecosystem integration — https://github.com/Rejean-McCormick/kristal-framework/blob/main/docs/Technical-Reference/kristal-docs-v5/00-overview/ecosystem-integration.md
+- Kristal v5 structured epistemic state — https://github.com/Rejean-McCormick/kristal-framework/blob/main/docs/Technical-Reference/kristal-docs-v5/01-core-spec/structured-epistemic-state.md
+- Kristal v5 assertion status and certainty — https://github.com/Rejean-McCormick/kristal-framework/blob/main/docs/Technical-Reference/kristal-docs-v5/01-core-spec/assertion-status-and-certainty.md
+- Kristal × Architect rendering contract — https://github.com/Rejean-McCormick/kristal-framework/blob/main/docs/Technical-Reference/kristal-docs-v5/06-integration/architect-rendering-contract.md
+- SemantiK Architect overview — https://github.com/Rejean-McCormick/SemantiK_Architect/wiki/What-SemantiK-Architect-Is
+
+## Patent / disclosure boundary
+
+- WIPO patent FAQ — https://www.wipo.int/en/web/patents/faq_patents
+- WIPO, *How to Protect Inventions through Patents* — https://www.wipo.int/en/web/patents/protection
