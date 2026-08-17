@@ -59,3 +59,31 @@
 
 - WIPO patent FAQ — https://www.wipo.int/en/web/patents/faq_patents
 - WIPO, *How to Protect Inventions through Patents* — https://www.wipo.int/en/web/patents/protection
+
+
+## Public conceptual foundations — Réjean McCormick / Medium
+
+### Core Science Silk Road relevance
+
+- Knowledge Peacebuilding: Building Peace Through Knowledge and Cooperation — https://medium.com/@boatbuilder610/knowledge-peacebuilding-building-peace-through-knowledge-and-cooperation-a05ee980d068
+- Kristal: the next infrastructure layer for reliable knowledge — and for developing knowledge — https://medium.com/@boatbuilder610/kristal-the-next-infrastructure-layer-for-reliable-knowledge-and-for-developing-knowledge-556f2926db51
+- From the First Spoken Words to the Semantic Web — https://medium.com/@boatbuilder610/from-the-first-spoken-words-to-the-semantic-web-how-humanity-built-knowledge-networks-that-can-a36577c88f68
+- Artificial Intelligences Need the World's Manuals — https://medium.com/@boatbuilder610/artificial-intelligences-need-the-worlds-manuals-06e8b53dff3e
+- Knowledge Has Left the Temple — https://medium.com/@boatbuilder610/knowledge-has-left-the-temple-c2592e7ee8b2
+- Konnaxion and Orgo: Starting from the Core — https://medium.com/@boatbuilder610/konnaxion-and-orgo-routing-knowledge-and-action-f6092dc0594d
+
+### Architectural / governance support
+
+- SmartVote: A Governance-Grade “Like” That Surfaces the Best Work in Konnaxion — https://medium.com/@boatbuilder610/smartvote-a-governance-grade-like-that-surfaces-the-best-work-in-konnaxion-9110973383e4
+- Sociotechnical Operating Systems: When Collective Intelligence Becomes Executable — https://medium.com/@boatbuilder610/sociotechnical-operating-systems-when-collective-intelligence-becomes-executable-d5d116a177e3
+- A Real Architecture Mistaken for a Utopia — https://medium.com/@boatbuilder610/a-real-architecture-mistaken-for-a-utopia-566a115668c8
+- Why Education and Certification Should Not Be Monetized — https://medium.com/@boatbuilder610/education-and-certification-should-not-be-monetized-ea7b80f88ed4
+
+### Broader political-economic context
+
+- When Wealth Extraction Is Called Wealth Creation — https://medium.com/@boatbuilder610/when-wealth-extraction-is-called-wealth-creation-4d8d52d7c05c
+- The Democratic Illusion: The People Vote, Money Governs — https://medium.com/@boatbuilder610/the-democratic-illusion-the-people-vote-money-governs-1b56fec52e9d
+- Capitalism Needs a Counterweight — https://medium.com/@boatbuilder610/capitalism-needs-a-counterweight-cb23bacd9125
+- Beyond the State: Media, Networks, Code, and the Fragmentation of Religious Power — https://medium.com/@boatbuilder610/beyond-the-state-media-networks-code-and-the-fragmentation-of-religious-power-ecd4117096ca
+
+For the role of each essay in the dossier, see `docs/11-conceptual-foundations.md`. These links document conceptual lineage; they are not substitutes for external scholarly evidence.

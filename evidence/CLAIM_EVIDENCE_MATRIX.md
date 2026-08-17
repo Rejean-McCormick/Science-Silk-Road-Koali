@@ -17,6 +17,7 @@ The purpose of this matrix is to keep the submission defensible. “Evidence” 
 | A working Kristal can exist before final recognition/validation | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/00-overview/ecosystem-integration.md`; `01-core-spec/structured-epistemic-state.md` | **Directly documented** |
 | SemantiK Architect renders structured meaning into target-language text with deterministic/multilingual goals | `SemantiK_Architect/wiki/What-SemantiK-Architect-Is.md`; Kristal `06-integration/architect-rendering-contract.md` | **Directly documented** |
 | Kristal can serve as an informal epistemic record for an invention disclosure, but not as a legal patent filing | Architectural interpretation + WIPO patent filing/public-disclosure guidance | **Bounded interpretation; not a patent-law function of Kristal** |
+| Public Medium essays document the conceptual lineage connecting knowledge peacebuilding, Kristal, semantic/multilingual exchange, AI-readable knowledge, governance, and action | `docs/11-conceptual-foundations.md`; Medium links in `references/LINKS.md` | **Authorial design rationale; not independent empirical evidence** |
 | Orgo converts signals and decisions into accountable cases/tasks and recurring review | `Orgo/wiki/Home.md` and v3 technical reference | **Directly documented** |
 | kOA architecture can generate a theory of capability trajectories | Derived from the above architecture | **Research interpretation** |
 | Capability gain and dependency can increase simultaneously | Not proved by kOA | **Research hypothesis** |

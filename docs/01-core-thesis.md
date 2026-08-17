@@ -142,3 +142,28 @@ The term **invention disclosure** is deliberately used instead of “informal pa
 
 - https://www.wipo.int/en/web/patents/faq_patents
 - https://www.wipo.int/en/web/patents/protection
+
+
+## 8. From knowledge peacebuilding to executable cooperation
+
+The architectural proposition has a public conceptual lineage beyond the technical repositories. A series of essays develops a sequence that is particularly relevant to Science Silk Road research:
+
+```text
+cooperation through knowledge
+→ wider participation in knowledge production
+→ structured epistemic artifacts
+→ semantic and multilingual portability
+→ human + AI usability
+→ explicit evaluation and authority
+→ coordinated action and institutional memory
+```
+
+This sequence is not offered as empirical proof. It is useful because it exposes the assumptions behind the architecture and turns them into research questions. In particular:
+
+- Does structured exchange allow earlier-stage knowledge to circulate without being mistaken for validated fact?
+- Can semantic representation reduce language friction while preserving local interpretation and disagreement?
+- Does machine-readable operational knowledge strengthen the ability of partner organizations to maintain, adapt, and transmit scientific capability?
+- Can broader contribution coexist with credible validation and expertise-sensitive authority?
+- Under what conditions does knowledge exchange become durable cooperation rather than one-way transfer?
+
+The relevant essays and their precise role in the dossier are mapped in [`11-conceptual-foundations.md`](11-conceptual-foundations.md).

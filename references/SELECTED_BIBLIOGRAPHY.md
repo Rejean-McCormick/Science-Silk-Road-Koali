@@ -55,3 +55,28 @@ This is a focused reading list for the proposed dialogue. It is not intended as 
 - China’s Science Silk Road project: https://sciencesilkroad.mpiwg-berlin.mpg.de/
 - MPIWG project page: https://www.mpiwg-berlin.mpg.de/research/projects/chinas-science-silk-road-and-new-geopolitics-knowledge-production
 - Lise Meitner Research Group “China in the Global System of Science”: https://www.mpiwg-berlin.mpg.de/research/LMRG-china-science/about
+
+
+## Authorial conceptual foundations (not external evidence)
+
+The following public essays are included to document the design rationale and conceptual lineage of kOA. They should not be counted as independent scholarly support for the dossier's empirical claims.
+
+1. McCormick, Réjean. **“Knowledge Peacebuilding: Building Peace Through Knowledge and Cooperation.”** Medium.  
+   https://medium.com/@boatbuilder610/knowledge-peacebuilding-building-peace-through-knowledge-and-cooperation-a05ee980d068
+
+2. McCormick, Réjean. **“Kristal: the next infrastructure layer for reliable knowledge — and for developing knowledge.”** Medium.  
+   https://medium.com/@boatbuilder610/kristal-the-next-infrastructure-layer-for-reliable-knowledge-and-for-developing-knowledge-556f2926db51
+
+3. McCormick, Réjean. **“From the First Spoken Words to the Semantic Web.”** Medium.  
+   https://medium.com/@boatbuilder610/from-the-first-spoken-words-to-the-semantic-web-how-humanity-built-knowledge-networks-that-can-a36577c88f68
+
+4. McCormick, Réjean. **“Artificial Intelligences Need the World's Manuals.”** Medium.  
+   https://medium.com/@boatbuilder610/artificial-intelligences-need-the-worlds-manuals-06e8b53dff3e
+
+5. McCormick, Réjean. **“Knowledge Has Left the Temple.”** Medium.  
+   https://medium.com/@boatbuilder610/knowledge-has-left-the-temple-c2592e7ee8b2
+
+6. McCormick, Réjean. **“Konnaxion and Orgo: Starting from the Core.”** Medium.  
+   https://medium.com/@boatbuilder610/konnaxion-and-orgo-routing-knowledge-and-action-f6092dc0594d
+
+See `docs/11-conceptual-foundations.md` for the full fourteen-article relevance map.

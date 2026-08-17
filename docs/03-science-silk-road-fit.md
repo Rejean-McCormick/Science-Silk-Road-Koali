@@ -125,3 +125,37 @@ Kristal can represent an **invention disclosure or pre-patent research record** 
 
 - https://www.wipo.int/en/web/patents/faq_patents
 - https://www.wipo.int/en/web/patents/protection
+
+
+## 7. Knowledge peacebuilding as a researchable outcome
+
+The essay **“Knowledge Peacebuilding: Building Peace Through Knowledge and Cooperation”** supplies a broader motivation for the architecture: scientific and technical cooperation can create practical relationships across political and cultural boundaries. In this dossier, that proposition should be treated as a **hypothesis**, not as an assumed virtue of scientific exchange.
+
+A Science Silk Road case can therefore be examined at two levels simultaneously:
+
+```text
+Level 1 — capability
+What knowledge, skills, authority, infrastructure, and reconfiguration capacity are formed?
+
+Level 2 — cooperation
+Do repeated knowledge-producing relationships create durable channels of trust, reciprocity,
+problem solving, and continued collaboration across institutional or geopolitical difference?
+```
+
+The kOA conceptual sequence makes the mechanism more concrete:
+
+```text
+Knowledge Peacebuilding
+→ distributed contribution
+→ Kristal epistemic artifacts
+→ semantic / multilingual exchange
+→ AI-readable knowledge
+→ expertise-sensitive evaluation
+→ Konnaxion / Orgo coordination and action
+```
+
+This gives the project an additional empirical question:
+
+> **When scientific knowledge is made portable, inspectable, multilingual, and reusable across institutions, does that merely increase information flow, or can it also create more durable and reciprocal forms of scientific cooperation?**
+
+The public essays supporting this design lineage are catalogued in [`11-conceptual-foundations.md`](11-conceptual-foundations.md). They are treated as authorial design rationale, not as external evidence of impact.

@@ -43,7 +43,8 @@ Science Silk Road offers an external empirical domain in which these hypotheses 
 13. [kOA Source Map](evidence/KOA_SOURCE_MAP.md)
 14. [Chronology and Priority Protocol](evidence/CHRONOLOGY_AND_PRIORITY.md)
 15. [Selected Bibliography](references/SELECTED_BIBLIOGRAPHY.md)
-16. [Relevant Links](references/LINKS.md)
+16. [Conceptual Foundations and Public Design Lineage](docs/11-conceptual-foundations.md)
+17. [Relevant Links](references/LINKS.md)
 
 ---
 
@@ -125,6 +126,24 @@ A Kristal may document an **invention disclosure or pre-patent research record**
 
 - WIPO patent FAQ: https://www.wipo.int/en/web/patents/faq_patents
 - WIPO, *How to Protect Inventions through Patents*: https://www.wipo.int/en/web/patents/protection
+
+## Conceptual lineage: knowledge cooperation → semantic exchange → action
+
+A set of public essays documents the conceptual path behind the architecture. For this Science Silk Road dossier, the most relevant sequence is:
+
+```text
+Knowledge Peacebuilding
+→ Knowledge Has Left the Temple
+→ Kristal
+→ Semantic Web / SemantiK
+→ AI-readable operational knowledge
+→ expertise-sensitive governance
+→ Konnaxion → Orgo
+```
+
+The essays are treated as **design rationale and public conceptual lineage**, not as external empirical evidence. Their value is to show how the peacebuilding, open-contribution, structured-knowledge, multilingual, AI, governance, and action layers were conceived as parts of one system.
+
+See [Conceptual Foundations and Public Design Lineage](docs/11-conceptual-foundations.md) for the full mapping and all fourteen supplied Medium articles.
 
 ## Current public anchors
 

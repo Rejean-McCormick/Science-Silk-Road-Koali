@@ -14,6 +14,7 @@
 - `docs/08-dialogue-hang-zhou.md`
 - `docs/09-research-design.md`
 - `docs/10-current-system-status.md`
+- `docs/11-conceptual-foundations.md`
 - `evidence/CLAIM_EVIDENCE_MATRIX.md`
 - `evidence/KOA_SOURCE_MAP.md`
 - `evidence/CHRONOLOGY_AND_PRIORITY.md`
@@ -30,3 +31,4 @@
 - The main analytical terms are **capability trajectory**, **capability–dependency configuration**, **functional distribution of authority**, **institutional reproduction**, and **reconfiguration capacity**.
 - Kristal is framed as an **informal epistemic record / invention-disclosure format**, never as an informal patent office or substitute for legal patent filing.
 - The Kristal + SemantiK proposition is presented as a **structured, AI-ready, multilingual knowledge-exchange architecture** to be empirically investigated, not as an already proven global science infrastructure.
+- Medium essays are catalogued as **conceptual foundations / design rationale**, with a strict separation from external empirical evidence.

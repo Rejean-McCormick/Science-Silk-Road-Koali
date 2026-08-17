@@ -27,6 +27,8 @@ One concrete example is **Kristal**, kOA's portable structured epistemic artifac
 
 An invention disclosure can be represented in that same structure, but this should not be confused with patent registration: a Kristal is not a patent-office filing or a substitute for patent law. Patent-sensitive artifacts may also require restricted distribution before filing because public disclosure can affect novelty.
 
+A parallel set of public essays documents the conceptual lineage behind this architecture: **Knowledge Peacebuilding** frames knowledge cooperation as a possible nonviolent common ground; **Knowledge Has Left the Temple** addresses contribution beyond institutional monopolies; **Kristal** provides the portable epistemic object; the semantic-web essay addresses meaning across languages; **Artificial Intelligences Need the World’s Manuals** extends the problem to machine-usable operational knowledge; and **Konnaxion and Orgo** connect knowledge to coordinated action. I treat these essays as design rationale and question-generating material, not as independent empirical evidence. They are mapped in `docs/11-conceptual-foundations.md`.
+
 This design trajectory leads to a research proposition that I believe complements, rather than duplicates, your project:
 
 > **How do transnational scientific infrastructures redistribute and reproduce the capabilities to operate, maintain, interpret, validate, adapt, govern, transmit, and reconfigure scientific activity across partner institutions over time?**
