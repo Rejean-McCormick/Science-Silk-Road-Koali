@@ -40,6 +40,9 @@ Use the strongest available evidence in this order:
 | Capability / competence evidence | TBD | | | Capacity-building literature | |
 | Portability / exit / reconfiguration | TBD | | | Dependency / infrastructure debates | |
 | Plural authority without flattened truth | TBD | | | Cheng / epistemic plurality | |
+| Composition without absorption | TBD | | | boundary / interoperability literatures | |
+| Articulation / interface-centered transition logic | TBD | | | Science Silk Road interface framing | |
+| Terminal dependency / replicable whole | TBD | | | infrastructure dependency debates | |
 | Institutional reproduction / continuity | TBD | | | Science-system durability | |
 
 ## 5. Recommended scholarly wording
@@ -67,4 +70,4 @@ Do not claim priority over broad concepts such as:
 - modularity;
 - expert governance.
 
-The potentially distinctive object is the **specific integrated architecture and the transition logic it required**, not ownership of the underlying intellectual traditions.
+The potentially distinctive object is the **specific integrated articulation architecture and the transition logic it required**—including composition without absorption, differentiated authority, terminal dependency, and cumulative capability—not ownership of the underlying intellectual traditions.

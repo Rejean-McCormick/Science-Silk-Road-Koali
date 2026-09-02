@@ -1,38 +1,38 @@
 # Claim–Evidence Matrix
 
-The purpose of this matrix is to keep the submission defensible. “Evidence” here means documentary support for what kOA currently specifies or implements; it does not prove the derived social-science hypothesis.
+This matrix keeps the dossier’s claims bounded. Documentary evidence about Koali establishes what the architecture says or attempts; it does **not** prove the corresponding social-science proposition.
 
-| Dossier claim | Evidence in kOA corpus | Status of claim |
+| Claim | Koali / project support | Epistemic status |
 |---|---|---|
-| kOA separates authority from execution | `kOA-Linux/docs/01-constitution/04-explicit-authority.md`; global invariants | **Directly documented** |
-| kOA treats critical transitions as auditable events | `kOA-Linux/docs/02-system/20-receipts-and-critical-transitions.md` | **Directly documented** |
-| kOA treats portability and credible exit as architectural concerns | `kOA-Linux/docs/01-constitution/11-portability-restore-and-exit.md`; operations portability doc | **Directly documented** |
-| kOA uses explicit capability modeling and degradation rules | `kOA-Linux/docs/02-system/06-capability-model.md`; `17-capability-degradation.md` | **Directly documented** |
-| Konnaxion links learning, validation, decision, execution, and preservation | https://initkoa.org/platforms/konnaxion/journeys | **Publicly documented; several journeys marked Active** |
-| Konnaxion does not collapse baseline voting into expertise-weighted reading | `Konnaxion/wiki/Smart-Vote.md`; public Konnaxion journeys | **Directly documented** |
-| EkoH/K-Port separates evidence sources, admissibility, and scoring authority | `K-Port/docs/00-ekoh-expertise-claims-app-alignment.md` | **Directly documented; K-Port doc is draft** |
-| Kristal preserves provenance, certainty, validation, authority, scope, and lineage | Kristal wiki / public Konnaxion overview | **Directly documented** |
-| Kristal can represent hypotheses, claims, scientific claims, technical declarations, and research material before final recognition | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/01-core-spec/assertion-status-and-certainty.md`; `structured-epistemic-state.md` | **Directly documented** |
-| Kristal is designed as an AI-ready, queryable, portable epistemic artifact rather than free text | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/00-overview/ecosystem-integration.md` | **Directly documented** |
-| A working Kristal can exist before final recognition/validation | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/00-overview/ecosystem-integration.md`; `01-core-spec/structured-epistemic-state.md` | **Directly documented** |
-| SemantiK Architect renders structured meaning into target-language text with deterministic/multilingual goals | `SemantiK_Architect/wiki/What-SemantiK-Architect-Is.md`; Kristal `06-integration/architect-rendering-contract.md` | **Directly documented** |
-| Kristal can serve as an informal epistemic record for an invention disclosure, but not as a legal patent filing | Architectural interpretation + WIPO patent filing/public-disclosure guidance | **Bounded interpretation; not a patent-law function of Kristal** |
-| Public Medium essays document the conceptual lineage connecting knowledge peacebuilding, Kristal, semantic/multilingual exchange, AI-readable knowledge, governance, and action | `docs/11-conceptual-foundations.md`; Medium links in `references/LINKS.md` | **Authorial design rationale; not independent empirical evidence** |
-| Orgo converts signals and decisions into accountable cases/tasks and recurring review | `Orgo/wiki/Home.md` and v3 technical reference | **Directly documented** |
-| kOA architecture can generate a theory of capability trajectories | Derived from the above architecture | **Research interpretation** |
-| Capability gain and dependency can increase simultaneously | Not proved by kOA | **Research hypothesis** |
-| Capability reproduction predicts long-term durability better than training counts | Not proved by kOA | **Research hypothesis** |
-| Reconfiguration capacity is a stronger test than nominal ownership | Not proved by kOA | **Research hypothesis** |
-| kOA anticipated the Science Silk Road team's current theoretical concerns by two years | Requires timestamped historical evidence | **Do not claim yet as established fact** |
+| Distributed potential does not automatically become collective agency | `Civilizational Coherence` canonical concepts/formulas | **Canonical theory / conceptual architecture** |
+| Conversion loss is distinct from missing capacity | canonical invariants: `Missing Capacity ≠ Conversion Loss`; `Capability Exists ≠ Capability Is Mobilized` | **Canonical distinction** |
+| Interfaces are recurring analytical objects | canonical conversion chain; scenario architecture; traceability matrix | **Documented architecture / conditional research hypothesis** |
+| Koali seeks composition without absorption | Kintsugi / Kompendio articulation model; integration invariants | **Documented design principle** |
+| Strong centrality need not imply sovereign centralization | articulation-hub documentation; `Functional Centrality ≠ Domination` | **Documented conceptual/design claim** |
+| Koali targets reduced terminal dependency | canonical concept registry; replication/open-good docs | **Documented design objective** |
+| Repository cloning is weaker than functional reproduction | open-good documentation; independent reproducibility framing | **Documented design distinction** |
+| Evidence and interpretations should remain separable | canonical formulas: `StableEvidence + RevisableInterpretation`; Smart Vote design | **Documented epistemic/design principle** |
+| Expertise should not automatically become decision authority | canonical invariants; EkoH/Smart Vote separation; explicit-authority docs | **Documented normative/design principle** |
+| Kristal preserves provenance-bearing epistemic state | Kristal public/specification sources | **Documented architecture; implementation varies by feature** |
+| Konnaxion connects discovery, learning, collaboration, and deliberation | Konnaxion documentation and scenario architecture | **Documented architecture** |
+| Orgo provides decision/signal-to-execution continuity | Orgo documentation | **Documented architecture; end-to-end validation should be stated conservatively** |
+| Kintsugi can integrate mature external systems without merger | Kintsugi/Kompendio design corpus | **Current intended architecture / testable design claim** |
+| Capability and dependency may rise together | external literature + analytical inference; not proved by Koali | **Empirical research hypothesis** |
+| Discoverability can unlock capability that already exists | Koali capability/discovery architecture; organization literature relevant | **Empirical research hypothesis** |
+| Interface bottlenecks can dominate outcomes when nodes are adequate | traceability matrix | **Conditional empirical hypothesis** |
+| Semantic interoperability can preserve non-equivalence | canonical semantic invariants; SemantiK/Kristal architecture | **Design hypothesis; empirical scope unverified** |
+| Reconfiguration capacity predicts durability under change | architecture and dependency logic | **Empirical research hypothesis** |
+| Composition without absorption is preferable in all contexts | not established | **Do not claim universally** |
+| Koali is empirically superior to specialist systems | no benchmark | **Do not claim** |
+| Koali has solved Science Silk Road problems | no external empirical validation | **Do not claim** |
+| The integrated Koali formulation predates the Science Silk Road project by two years | requires dated commit-level evidence | **Chronology claim not established here** |
 
-## Recommended wording
+## Safe summary
 
-### Safe
+> Koali independently formalized a recurring set of problems involving discoverability, transition integrity, provenance, differentiated authority, semantic interoperability, execution continuity, memory, composition, and terminal dependency. These architectural distinctions generate hypotheses that can be tested in Science Silk Road cases.
 
-> “The kOA architecture independently formalized several problems—authority differentiation, provenance, transition evidence, continuity, portability, and institutional memory—that now intersect closely with the Science Silk Road research agenda.”
+## Unsafe summary
 
-### Requires chronology package
+> Koali proves how the Science Silk Road should be organized.
 
-> “These formulations predate specific 2025–2026 publications or project formulations.”
-
-Use the second only after completing `CHRONOLOGY_AND_PRIORITY.md` with verifiable timestamps.
+The second statement is not supported by this dossier.

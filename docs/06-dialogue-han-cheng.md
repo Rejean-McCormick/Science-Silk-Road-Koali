@@ -1,68 +1,56 @@
 # 06 — Dialogue with Han Cheng
 
-## 1. Why the fit is strong
+## 1. Primary bridge: knowledge has trajectories
 
-Han Cheng's work connects three areas central to this dossier:
+Han Cheng’s work is especially relevant because it treats knowledge production as spatially and institutionally situated rather than as an abstract flow of ideas. His work on Chinese world-writing and Global China draws attention to the production, translation, circulation, consumption, and reproduction of knowledge.
 
-1. the **geographies and politics of knowledge production**;
-2. the material and relational politics of **infrastructure**;
-3. the production of geographical imagination and **world-writing** in China's global expansion.
-
-His current MPIWG profile explicitly identifies political and development geography, territory and infrastructure, geographies of knowledge, and histories of geographical thought as central interests:
-
-- https://www.mpiwg-berlin.mpg.de/people/hcheng
-
-## 2. Knowledge reproduction, not only production
-
-In *Global China’s spatial ambition and area studies with geography* (2025), Cheng examines China's area studies and world geography as a state-disciplinary landscape and explicitly draws attention to the spatialities of **knowledge translation, consumption, circulation, and reproduction**.
-
-- DOI: https://doi.org/10.1111/tran.70027
-
-This creates a direct bridge to the proposed capability question:
+The articulation framework extends that trajectory question:
 
 ```text
-knowledge reproduction
-→ what institutional, technical, and human capabilities reproduce the conditions of knowledge production itself?
+knowledge production / translation / circulation / reproduction
+→ what happens at the interfaces?
+→ what becomes scientific capability?
+→ what remains dependent, contestable, or reconfigurable?
 ```
 
-The proposal does not treat these as equivalent. It asks whether knowledge reproduction depends on a deeper layer of capability reproduction.
+## 2. World-writing and semantic authority
 
-## 3. World-writing and semantic authority
+Cheng and Liu’s work on Chinese world-writing foregrounds institutions, disciplines, geopolitical imaginaries, and epistemic inequality. This makes semantic interoperability a substantive rather than merely technical issue.
 
-In *Geography, area studies and Chinese world-writing* (2022), Cheng and Liu situate knowledge production in place-specific institutional contexts and analyze how contemporary Chinese world-writing brings identities, discourses, power relations, and implications for local–global epistemic inequality.
+The Koali-derived framework therefore avoids assuming:
 
-- DOI: https://doi.org/10.1177/03091325221096179
+```text
+Translation = Equivalence
+Shared vocabulary = Shared worldview
+```
 
-For this dossier, the implication is that capability cannot be reduced to technical skill. Scientific capability also includes the capacity to:
+Instead it asks whether actors can cooperate through explicit semantic mappings while preserving legitimate non-equivalence among languages, categories, and institutional ontologies.
 
-- define categories;
-- formulate questions;
-- interpret evidence;
-- select valid representations;
-- circulate results in authoritative venues;
-- preserve local languages, concepts, and priorities when appropriate.
+## 3. Infrastructure as relational and contingent
 
-## 4. Infrastructure as relational and contingent
+Cheng’s BRI scholarship resists treating infrastructure as a single top-down object. Projects are remade through local politics, institutional conditions, and material practice.
 
-Cheng's BRI work resists treating infrastructure as a monolithic top-down object. The edited volume *The Material Geographies of the Belt and Road Initiative* emphasizes grounded, relational, contested, and locally mediated outcomes.
+This directly supports a shift from **capability transfer** to **capability articulation**: new capacities may emerge from the composition of local expertise, transnational infrastructure, standards, funding, technical practice, and authority.
 
-Open-access book:
+## 4. Composition without absorption
 
-- https://library.oapen.org/handle/20.500.12657/108372
+The strongest dialogue with Cheng may be:
 
-This is why the proposed framework uses **capability formation**, not capability transfer or conversion. Capabilities emerge through relations among infrastructures, institutions, local actors, prior knowledge, political conditions, and material constraints.
+> **Can transnational scientific systems become highly interoperable without requiring the absorption of local categories, priorities, institutions, or epistemic practices into one dominant order?**
+
+This is Koali’s principle of composition without absorption translated into an empirical research question.
 
 ## 5. Guardrail: no developmental ladder
 
-Cheng's work on Chinese development thinking and boundary-making is also a warning against turning spatial difference into temporal or civilizational hierarchy.
+Cheng’s critique of temporal ranking and world-writing makes a universal ladder of “scientific maturity” inappropriate.
 
-- *Temporality and the Geopolitical Enframing of Chinese International Development Thinking*: https://doi.org/10.1080/14650045.2022.2089563
-- *Boundary-making with India: Chinese developmental identity and the uses of geography*: https://doi.org/10.1080/21622671.2022.2096686
+The framework therefore studies multidimensional capability configurations rather than ranking institutions by how many functions they localize.
 
-Therefore this dossier should never operationalize capability as a universal scale of “civilizational maturity.” It studies **configurations**, choices, and power relations.
+## 6. Potential contribution
 
-## 6. Potential contribution to Cheng's research program
+> Existing work maps how knowledge is produced, translated, circulated, and reproduced across unequal geographies. An articulation perspective asks what happens at the interfaces through which those knowledge relations become— or fail to become—durable, actionable, and cumulative scientific capability.
 
-The strongest additive proposition is:
-
-> Existing work maps how knowledge is produced, translated, circulated, and reproduced across unequal geographies. Capability-trajectory analysis asks what infrastructures of maintenance, transmission, authority, and institutional memory make those processes durable—or leave them contingent on specific transnational relations.
+### References
+- Cheng, Han. “Global China’s Spatial Ambition and Area Studies with Geography.” *Transactions of the Institute of British Geographers* (2025). https://doi.org/10.1111/tran.70027
+- Cheng, Han, and Weidong Liu. “Geography, Area Studies and Chinese World-Writing.” *Progress in Human Geography* (2022). https://doi.org/10.1177/03091325221096179
+- Apostolopoulou, Elia, Han Cheng, Jonathan Silver, and Alan Wiig, eds. *The Material Geographies of the Belt and Road Initiative* (2025). https://library.oapen.org/handle/20.500.12657/108372

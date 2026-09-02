@@ -1,5 +1,22 @@
 # 11 — Conceptual Foundations and Public Design Lineage
 
+## 0. 2026-09-02 framing note
+
+The public design lineage below should now be read through an **articulation** lens. The central claim is not that Koali should replace specialized knowledge, learning, governance, or operational systems. The lineage documents how the project progressively tried to connect those capabilities through portable knowledge, semantic interfaces, contextual expertise, deliberation, execution, and memory.
+
+```text
+ExistingCapabilities
+→ Discoverability
+→ ExplicitInterfaces
+→ CompositionWithoutAbsorption
+→ Action
+→ Memory
+→ FutureCapability
+```
+
+These authorial essays document design rationale. They are not independent empirical validation.
+
+
 ## 1. Purpose of this document
 
 This dossier is primarily a research proposition grounded in documented kOA architecture and external literature. A parallel body of public essays by Réjean McCormick helps explain **why the architecture was built this way** and how its components fit together conceptually.
@@ -259,6 +276,6 @@ They should not be used to claim that:
 
 Taken together, the core essays support the following research-facing proposition:
 
-> **A Science Silk Road can be studied not only as a network through which scientific resources and outputs circulate, but as a possible transnational knowledge infrastructure in which developing knowledge can be represented as structured, provenance-preserving epistemic artifacts; rendered across languages; inspected by humans and AI systems; evaluated through explicit authority and expertise mechanisms; and connected to accountable cooperative action. The empirical question is whether such arrangements broaden scientific agency and durable capability without erasing uncertainty, local interpretation, institutional autonomy, or legitimate disagreement.**
+> **A Science Silk Road can be studied not only as a network through which scientific resources and outputs circulate, but as an articulation problem: how heterogeneous capabilities become discoverable, semantically interoperable, appropriately authorized, operationally connected, and cumulatively reusable without requiring their absorption into one technical, epistemic, or institutional order. The empirical question is which interfaces preserve meaning, provenance, agency, and mastery—and which instead create fragility, terminal dependency, or loss.**
 
 This proposition is intentionally stronger than a description of today's infrastructure and weaker than a claim of demonstrated effectiveness. It defines an architecture-informed research agenda.

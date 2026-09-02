@@ -1,86 +1,103 @@
 # 09 — Proposed Research Design
 
-## 1. Central question
+## 1. Primary question
 
-> **How do transnational scientific infrastructures form, distribute, institutionalize, and reproduce scientific capabilities across partner organizations over time?**
+> **How do Science Silk Road collaborations make heterogeneous scientific capabilities discoverable and composable, and under what conditions do those capabilities become cumulative and reconfigurable rather than fragile?**
 
 ## 2. Secondary questions
 
-1. How are epistemic, technical, data, organizational, agenda, and political authorities distributed across the infrastructure lifecycle?
-2. Which capability gains are accompanied by new dependencies, and which dependencies become negotiable or substitutable?
-3. What mechanisms allow competence to survive staff turnover, technical failure, contract expiration, or changes in funding and partnership?
-4. Under what conditions do partner institutions become able to train others, modify systems, create new research agendas, or build successor infrastructures?
-5. How do local categories, languages, standards, and institutional practices shape capability formation rather than merely receive external models?
+1. Which capabilities already exist before a partnership, and which become newly discoverable or mobilizable?
+2. What properties survive key transitions: provenance, semantic context, evidence, technical mastery, authority, and institutional memory?
+3. How are scientific, data, agenda, organizational, political, and operational authorities coupled across an infrastructure lifecycle?
+4. Which capability gains are accompanied by new dependencies on funding, hardware, software, data, standards, expertise, maintenance, or authorization?
+5. When does useful centrality become terminal dependency?
+6. Can institutions compose capabilities without one technical, semantic, or institutional order absorbing the others?
+7. Under what conditions do outcomes become transmitted mastery and future capability?
 
 ## 3. Candidate hypotheses
 
-### H1 — Infrastructure without equivalent authority redistribution
+### H1 — Interface bottlenecks
 
-Scientific infrastructure can strongly increase local operational capability without proportionally redistributing agenda, data, validation, or technical modification authority.
+When core node capabilities are already adequate, failures at discovery, translation, authority, handoff, maintenance, or memory can explain important gaps between available potential and observed collective capability.
 
 ### H2 — Capability–dependency co-production
 
-Capability gains and dependency gains can occur simultaneously. They should be measured as separate dimensions rather than opposite ends of one scale.
+Capability and dependency gains can occur simultaneously. They should be represented as separate dimensions rather than opposite ends of a single scale.
 
-### H3 — Reproduction requires more than training
+### H3 — Reproduction requires more than access or training
 
-Durable capability depends less on the number of training events than on repeated practice, institutional memory, access to resources, authority to modify or diagnose systems, and the capacity to train successors.
+Durable capability depends on repeated practice, institutional memory, resources, maintenance, modification rights or workarounds, and the ability to transmit mastery—not training counts alone.
 
-### H4 — Reconfiguration is a stronger durability test than nominal ownership
+### H4 — Reconfigurability is a stronger durability test than nominal ownership
 
-An institution may formally own an infrastructure yet remain fragile if it cannot respond to changes in personnel, suppliers, standards, or funding. Conversely, an institution may not own all components but remain highly capable if dependencies are transparent and substitutable.
+An institution may formally own infrastructure yet remain fragile if it cannot respond to changes in suppliers, staff, standards, funding, or data access.
+
+### H5 — Composition without absorption is possible but conditional
+
+Scientific systems may achieve useful interoperability while preserving distinct local ontologies, authorities, and ownership boundaries. The conditions under which this succeeds are empirical.
+
+### H6 — Centrality is not equivalent to domination
+
+Strong centralized scientific services can increase system capability without necessarily becoming terminal dependencies if knowledge, rights, alternatives, and reconfiguration capacity remain sufficiently distributed.
 
 ## 4. Comparative design
 
-A strong design would compare **capability trajectories**, not simply countries.
+Prefer comparisons of **functions and transitions** over whole-country rankings.
 
-Possible comparative contrasts:
+Possible contrasts:
 
-- two different host institutions using similar Chinese infrastructure;
-- the same scientific function under Chinese and non-Chinese partnerships;
-- different phases of one infrastructure's lifecycle;
-- one infrastructure before and after a disruption;
-- two capabilities within the same project (e.g. data interpretation vs hardware maintenance).
+- the same scientific function in two host institutions;
+- Chinese and non-Chinese partnerships performing comparable functions;
+- two different capabilities inside one project;
+- one infrastructure before and after a breakdown or supplier change;
+- one dataset across collection, hosting, interpretation, publication, and reuse;
+- one collaboration across personnel turnover.
 
 ## 5. Methods
 
 ### Process tracing
-Reconstruct the sequence from design and procurement through operation, maintenance, adaptation, and transmission.
+Reconstruct transitions from procurement/design through operation, maintenance, adaptation, transmission, and memory.
 
 ### Semi-structured interviews
-Interview scientists, engineers, administrators, funders, vendors, policymakers, technicians, students, and former staff.
+Scientists, engineers, administrators, funders, vendors, policymakers, technicians, students, former staff, and local partner institutions.
 
 ### Ethnographic observation
-Observe routine work, failure, maintenance, coordination, documentation, and informal learning.
+Routine work, breakdown, workaround, repair, coordination, tacit knowledge, and informal learning.
 
 ### Document analysis
-Contracts, training materials, maintenance records, data agreements, standard operating procedures, budgets, governance rules, publication policies, and procurement documents.
+Contracts, training materials, maintenance records, governance rules, data agreements, budgets, procurement documents, SOPs, standards, and publication policies.
 
-### Digital / technical artifact analysis
-Where appropriate: code repositories, version histories, metadata schemas, APIs, data flows, access-control structures, model dependencies, and interoperability standards.
+### Technical artifact analysis
+Where relevant: code, schemas, APIs, version histories, access-control structures, data flows, model dependencies, and portability mechanisms.
 
-### Scientometrics as context, not sole measure
-Use publication, coauthorship, citation, patent, or mobility indicators to contextualize trajectories while avoiding reduction of capability to output counts.
+### Scientometrics as context
+Publication, coauthorship, citation, patent, and mobility indicators can contextualize trajectories but should not stand in for capability itself.
 
-## 6. Evidence table for each transition
+## 6. Transition evidence table
 
-| Transition | Actor(s) | Required knowledge | Authority | Evidence / record | Dependency | Failure mode | Reconfiguration option |
+| Transition | Existing capability | What must survive | Authority | Dependency | Observable evidence | Failure / loss | Reconfiguration option |
 |---|---|---|---|---|---|---|---|
-| Install → operate | | | | | | | |
-| Operate → maintain | | | | | | | |
-| Data → interpretation | | | | | | | |
-| Training → independent practice | | | | | | | |
-| Staff exit → successor | | | | | | | |
-| Supplier change → continuity | | | | | | | |
+| training → practice | | | | | | | |
+| operate → maintain | | | | | | | |
+| data → interpretation | | | | | | | |
+| expertise → advice | | | | | | | |
+| advice → decision | | | | | | | |
+| decision → execution | | | | | | | |
+| outcome → memory | | | | | | | |
+| staff exit → successor | | | | | | | |
+| supplier change → continuity | | | | | | | |
 
 ## 7. Falsification conditions
 
-The framework should be revised or rejected if fieldwork shows that:
+Revise or reject relevant claims if:
 
-- capability profiles do not add explanatory value beyond existing capacity measures;
+- interface analysis adds no explanatory value beyond established node/capacity measures;
+- discoverability and composition do not meaningfully affect observed capability;
 - authority differentiation is empirically trivial in the cases studied;
-- transmission and reconfiguration are not associated with longer-term continuity;
-- dependency profiles fail to explain observed vulnerability or agency;
-- actors themselves organize capability in ways the framework systematically misses.
+- semantic non-equivalence does not affect cooperation in the selected cases;
+- capability–dependency profiles do not explain vulnerability or agency;
+- reconfiguration capacity does not predict continuity;
+- actors organize capability in ways the framework systematically fails to represent;
+- the administrative cost of explicit provenance or transition tracking exceeds its value.
 
-Explicit falsification is essential because the goal is not to validate kOA through external cases.
+The goal is not to validate Koali through external cases. It is to determine which parts of the articulation framework survive empirical pressure.

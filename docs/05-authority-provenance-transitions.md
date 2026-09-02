@@ -1,90 +1,113 @@
-# 05 — Authority, Provenance, and Critical Transitions
+# 05 — Authority, Provenance, Semantics, and Critical Transitions
 
-## 1. Why “control” is too coarse
+## 1. “Control” is too coarse
 
-Scientific infrastructures distribute several different powers that should not be collapsed into a single ownership/control variable.
-
-A working analytical map can distinguish:
-
-- **epistemic authority** — who can credibly interpret or validate a claim;
-- **data authority** — who can collect, access, transform, publish, or delete data;
-- **technical authority** — who may alter hardware, software, protocols, or configurations;
-- **organizational authority** — who allocates roles, resources, and responsibilities;
-- **agenda authority** — who defines legitimate research questions and priorities;
-- **political authority** — who can impose binding constraints or strategic objectives;
-- **operational permission** — who is authorized to execute a concrete action.
-
-The research task is to observe how these authority surfaces align, overlap, or conflict.
-
-## 2. Architectural origin in kOA
-
-kOA-Linux gives explicit authority constitutional status. Its documentation distinguishes authority from execution and requires critical transitions to be traceable.
-
-Sources:
-
-- https://github.com/Rejean-McCormick/kOA-Linux/blob/main/docs/01-constitution/04-explicit-authority.md
-- https://github.com/Rejean-McCormick/kOA-Linux/blob/main/docs/01-constitution/02-global-invariants.md
-- https://github.com/Rejean-McCormick/kOA-Linux/blob/main/docs/02-system/20-receipts-and-critical-transitions.md
-
-K-Port/EkoH applies the same separation to competence evidence: evidence may originate from many systems, while source authority, admissibility, and reputation scoring remain distinct responsibilities. In the supplied archive see:
-
-- `K-Port/docs/00-ekoh-expertise-claims-app-alignment.md`
-- `K-Port/docs/02-expertise-claim-evidence-model.md`
-- `K-Port/docs/05-governance-privacy-and-audit.md`
-
-## 3. Provenance is not merely citation
-
-For this research, provenance should include the chain by which scientific capability is produced and stabilized:
+Scientific cooperation distributes many forms of authority that can move independently.
 
 ```text
-source / training / design
-→ interpretation
-→ validated practice
-→ authorized use
-→ operational result
-→ review
-→ institutional memory
-→ future reuse
+Expertise
+≠ ValidationAuthority
+≠ DataAuthority
+≠ AgendaAuthority
+≠ OrganizationalAuthority
+≠ PoliticalLegitimacy
+≠ OperationalPermission
+≠ InfrastructureControl
 ```
 
-Empirical traces might include:
+A funding institution may influence the agenda without validating scientific claims. A government may authorize a project without possessing epistemic authority. A technician may control a critical system without legitimate authority over its social purpose.
 
-- maintenance and calibration logs;
-- version histories;
-- training records;
-- data lineage;
-- procurement documents;
-- role and authorization records;
-- publication workflows;
-- software repositories;
-- lab notebooks;
-- standard operating procedures;
-- post-incident reports;
-- tacit mentoring practices.
+The framework therefore traces **authority configurations**, not one generic control variable.
 
-## 4. Critical transition analysis
+## 2. Provenance is more than citation
 
-A **critical transition** is a point where one or more of the following changes:
+At a critical transition, provenance may need to preserve:
 
-- object identity;
-- epistemic status;
-- responsible actor;
-- authority holder;
-- access rights;
-- dependency structure;
-- evidence requirements;
-- reversibility.
+- source identity;
+- evidence;
+- transformation history;
+- status and uncertainty;
+- attribution;
+- validation context;
+- relevant authority;
+- scope;
+- lineage.
 
-This makes the transition itself an object of field research.
+The purpose is reconstructibility: later actors should be able to understand what changed and why.
 
-## 5. Research value
+## 3. Stable evidence, plural reading
 
-This framework can reveal situations such as:
+The framework separates a common evidence record from derived interpretations.
 
-- local scientists have strong epistemic authority but weak data authority;
-- a host institution owns equipment but cannot modify proprietary software;
-- external engineers maintain a system while local researchers set the agenda;
-- a ministry controls budgets but professional scientific validation remains insulated;
-- training is extensive but competence is not reproduced after staff turnover.
+```text
+StableEvidence + RevisableInterpretation
+```
 
-These configurations are more informative than labeling the whole partnership “autonomous,” “dependent,” or “controlled.”
+and:
+
+```text
+Facts ≠ Readings
+OneRecord → MultipleReadings
+```
+
+This is useful in transnational settings because the same evidence may support different scoped interpretations without requiring either a single universal truth authority or an “anything goes” relativism.
+
+## 4. Semantic integrity
+
+Cross-language and cross-institutional cooperation creates semantic transitions.
+
+The relevant distinction is:
+
+```text
+Translation ≠ Equivalence
+Mapping ≠ Identity
+SemanticCoherence ≠ UniversalOntology
+```
+
+A robust mapping should be able to represent relations such as:
+
+- equivalent;
+- approximate;
+- broader;
+- narrower;
+- overlapping;
+- contested;
+- no known equivalent.
+
+The research question is whether scientific collaboration preserves enough conceptual identity and context for knowledge to remain mutually intelligible and composable.
+
+## 5. Critical-transition analysis
+
+At every important handoff, ask:
+
+| Question | Example |
+|---|---|
+| What object is changing state? | claim, dataset, instrument, mandate, task |
+| What must survive? | provenance, meaning, authority, evidence, context |
+| Who is competent to evaluate it? | scientist, engineer, local operator |
+| Who has authority to decide? | institution, regulator, PI, governance body |
+| What makes the transition valid? | evidence, approval, test, contract, policy |
+| Can it be contested or reversed? | appeal, revision, rollback, alternative interpretation |
+| Does the result enter memory? | lineage, postmortem, training, reusable artifact |
+
+## 6. Architectural origin in Koali
+
+Koali makes these distinctions explicit because its components must hand objects and responsibilities to one another without silently transferring authority.
+
+Examples include:
+
+- Kristal: provenance-bearing epistemic objects;
+- EkoH: contextual expertise signals that do not become truth authority;
+- Smart Vote: baseline participation separated from derived readings;
+- Orgo: decision/case/task execution with ownership and closure;
+- Kintsugi: explicit integration boundaries between internal and external capabilities.
+
+These are architectural responses, not empirical proof that the corresponding institutional principles are optimal.
+
+## 7. Research value
+
+Science Silk Road cases make these transitions visible because scientific activity must cross disciplinary, technical, linguistic, organizational, and political boundaries.
+
+The framework adds a question to knowledge-production research:
+
+> **What properties of knowledge, capability, and authority survive the transitions through which transnational science becomes operational?**

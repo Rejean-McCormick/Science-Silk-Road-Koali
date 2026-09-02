@@ -1,68 +1,58 @@
 # 07 — Dialogue with Anna Lisa Ahlers
 
-## 1. Why the fit is strong
+## 1. Primary bridge: differentiated authority
 
-Anna Lisa Ahlers' research examines China's science policy, the relationship between scientific knowledge and policymaking, political regimes as conditions for science, and the dynamics of global science and its local variants.
+Anna Lisa Ahlers’s work on China’s science, technology, and innovation system is highly compatible with an articulation perspective because it resists a simple binary between political control and professional science.
 
-Current profile and group framing:
-
-- https://www.mpiwg-berlin.mpg.de/people/alahlers
-- https://www.mpiwg-berlin.mpg.de/research/LMRG-china-science/about
-
-The group's general comparative interest in the **global structures of scientific knowledge production and their local varieties** is particularly compatible with a capability-configuration approach.
-
-## 2. Political steering and professional scientific authority
-
-Ahlers' 2024 analysis of CCP steering of China's science, technology, and innovation system describes strong political efforts to shape scientific organizations while also recognizing the continuing importance of professional expertise, global scientific standards, and international collaboration.
-
-Open-access paper:
-
-- https://ucigcc.org/publication/the-communist-partys-steering-of-chinas-science-technology-and-innovation-system-aspirations-and-reality/
-
-The proposed contribution is to disaggregate “control” into functional authority surfaces:
+The framework disaggregates authority into multiple planes:
 
 ```text
-political steering
-≠ professional validation
-≠ operational permission
-≠ data authority
-≠ agenda authority
-≠ technical modification rights
+PoliticalSteering
+≠ ScientificValidation
+≠ ProfessionalExpertise
+≠ DataAuthority
+≠ AgendaAuthority
+≠ OperationalPermission
 ```
 
-This could make visible hybrid arrangements that a single centralized/decentralized variable would miss.
+The empirical question is how these authority planes are coupled in concrete scientific collaborations.
 
-## 3. Evaluation systems as infrastructures of behavior
+## 2. Metrics are not capability
 
-Ahlers and Christmann-Budian's work on university rankings shows how quantification, competition, and evaluation metrics become political and organizational instruments and can generate behavioral effects, gaming, and policy reaction.
+Ahlers and Christmann-Budian’s work on university rankings demonstrates that metrics are not neutral descriptions; they can become governing instruments and generate incentives, gaming, and policy reactions.
 
-- https://doi.org/10.1007/s10734-023-01014-y
-
-This provides a direct methodological warning for the kOA-derived framework: **capability should not be compressed into a single index**. A multidimensional profile preserves heterogeneity and reduces the temptation to turn measurement into a normative ranking system.
-
-## 4. Output versus outcome
-
-Ahlers' environmental-governance work also emphasizes the difference between state capacity to generate rapid policy outputs and the local, dispersed processes that determine outcomes.
-
-- *Breathe Easy? Local Nuances of Authoritarian Environmentalism in China’s Battle Against Air Pollution*: https://doi.org/10.1017/S0305741017001370
-
-The capability extension is:
+This supplies a strong guardrail for the present framework:
 
 ```text
-scientific infrastructure output
-≠ capability outcome
-≠ institutional learning
-≠ reproduced future capability
+Evidence ≠ Metric
+Measurable ≠ Valuable
+Output ≠ Outcome ≠ Learning ≠ CapabilityGain
 ```
 
-## 5. Differentiation and expertise
+Capability should therefore be represented as a multidimensional profile, not collapsed into one ranking.
 
-Ahlers' broader comparative political sociology treats modern political systems as internally differentiated and asks how institutions, inclusion roles, expertise, and decision-making interact across levels.
+## 3. Steering and articulation
 
-- *Democratic and Authoritarian Political Systems in 21st Century World Society*: https://doi.org/10.14361/9783839451267
+Science Silk Road collaborations can combine political priorities, professional scientific norms, institutional autonomy, international standards, funding requirements, and local implementation.
 
-This makes the project a natural site for studying how scientific and political authority are coupled without assuming that either is singular.
+An articulation approach asks where these systems connect and where authority is silently transferred or ambiguously coupled.
 
-## 6. Potential contribution to Ahlers' research program
+## 4. Useful centrality without sovereign centralization
 
-> Capability-trajectory analysis provides a way to observe how political steering, professional expertise, institutional rules, metrics, and transnational infrastructure interact at concrete transitions—especially when scientific activity must be maintained, validated, transmitted, or reconfigured over time.
+Ahlers’s work also makes a crude centralization/decentralization binary insufficient. Scientific systems can contain strong steering institutions while maintaining differentiated professional domains.
+
+Koali’s analogous distinction is:
+
+```text
+FunctionalCentrality ≠ SovereignCentrality
+```
+
+The research question is therefore not whether a center exists, but what it centralizes and which powers remain distributed.
+
+## 5. Potential contribution
+
+> Articulation analysis provides a way to trace how political steering, professional expertise, evaluation systems, data governance, technical infrastructure, and operational authority meet at concrete transitions—and whether those configurations produce durable scientific capability.
+
+### References
+- Ahlers, Anna L. *The Communist Party’s Steering of China’s Science, Technology, and Innovation System: Aspirations and Reality* (2024).
+- Ahlers, Anna L., and Stephanie Christmann-Budian. “The Politics of University Rankings in China.” *Higher Education* 86 (2023): 751–770. https://doi.org/10.1007/s10734-023-01014-y

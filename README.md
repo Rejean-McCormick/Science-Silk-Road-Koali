@@ -1,181 +1,247 @@
-# kOA × China’s Science Silk Road
-## A research dossier on scientific capability formation, authority, provenance, and institutional reproduction
+# Koali × China’s Science Silk Road
+## Articulation, transition integrity, and cumulative scientific capability
 
-**Prepared by Réjean McCormick**  
-**Version:** 2026-08-17  
-**Audience:** Anna L. Ahlers, Han Cheng, Hang Zhou, and the *China’s Science Silk Road and the New Geopolitics of Knowledge Production* research team.
-
----
-
-## Purpose
-
-This repository presents a research proposition emerging from an independent design trajectory: the construction of **kOA**, a modular sociotechnical architecture for moving from knowledge to legitimate action while preserving provenance, explicit authority, contestability, continuity, and institutional memory.
-
-The dossier does **not** claim that concepts such as capacity building, institutional memory, provenance, dependency, expertise, or distributed authority are new. Its narrower claim is that building kOA forced these concerns to be formalized together as **operational transition problems**. That architectural work generated research hypotheses that intersect unusually closely with the Science Silk Road project.
-
-The proposed academic question is therefore not “Is kOA a solution for the Science Silk Road?” It is:
-
-> **How do transnational scientific infrastructures form, distribute, institutionalize, and reproduce capabilities across partner organizations over time—and what configurations of authority and dependency emerge in the process?**
-
-Science Silk Road offers an external empirical domain in which these hypotheses can be tested, challenged, revised, or rejected.
+**Prepared by Réjean McCormick** — publication name of François Jourdain  
+**Version:** 2026-09-02  
+**Purpose:** research dossier for *China’s Science Silk Road and the New Geopolitics of Knowledge Production*
 
 ---
 
-## Short reading path
+## Research proposition
 
-### 10 minutes
+Modern science does not suffer only from shortages of knowledge, expertise, infrastructure, or institutions. It also suffers from **fragmentation between capabilities that already exist**.
+
+This dossier develops one proposition:
+
+> **Distributed scientific potential does not automatically become cumulative collective capability. The decisive mechanisms often lie at the interfaces through which knowledge, competence, evidence, authority, infrastructure, action, and memory must change form while remaining usable.**
+
+Koali (kOA) is relevant to this proposition because it was developed as a **sociotechnical articulation architecture** around the same systems problem. It is not presented here as a platform that should replace specialized scientific tools or institutions.
+
+> **Koali competes less with existing systems than with the fragmentation between them.**
+
+Its design problem is how heterogeneous capabilities can remain distinct while becoming discoverable, composable, governable, actionable, and cumulative.
+
+---
+
+## The conceptual shift
+
+A transfer-centered view asks:
+
+```text
+What moved from A to B?
+```
+
+An articulation-centered view asks:
+
+```text
+What capabilities already existed?
+What became discoverable?
+What had to be translated or validated?
+Which authorities remained distinct?
+What new combinations became possible?
+What was lost at the interfaces?
+What became reusable, transmissible, and reconfigurable?
+```
+
+Scientific capability is often **co-produced relationally**, not transferred intact. Local competence, external infrastructure, standards, funding, maintenance, practice, data, institutional routines, and authority may combine to produce a capability that did not previously exist in any one actor.
+
+The common analytical object is therefore the **transition/interface**.
+
+---
+
+## Core architecture in one view
+
+```text
+         DISTRIBUTED POTENTIAL
+   knowledge · people · tools · institutions
+                 │
+                 ▼
+            DISCOVERABILITY
+                 │
+                 ▼
+             ARTICULATION
+      ┌──────────┼──────────┐
+      ▼          ▼          ▼
+ interpretation authority coordination
+      │          │          │
+      └──────────┼──────────┘
+                 ▼
+              ACTION
+                 ▼
+              OUTCOME
+                 ▼
+              MEMORY
+                 ▼
+        FUTURE CAPABILITY
+```
+
+At each transition ask:
+
+```text
+What must remain intact?
+Identity · Provenance · Meaning · Evidence · Uncertainty
+Attribution · Authority · Legitimacy · Contestability · Memory
+```
+
+The architecture does **not** imply that every function should be localized, decentralized, or standardized.
+
+Its recurring design heuristics are closer to:
+
+```text
+Composition without absorption
+Strong hub + distributed capability + replicable whole
+Maximum useful centrality + minimum terminal dependency
+Stable evidence + revisable interpretation
+```
+
+---
+
+## Core distinctions
+
+```text
+Missing capacity ≠ conversion loss
+Capability exists ≠ capability is mobilized
+Connection ≠ interoperability
+Interoperability ≠ uniformity
+Composition ≠ absorption
+Translation ≠ equivalence
+Evidence ≠ advice
+Advice ≠ authority
+Expertise ≠ decision authority
+Decision ≠ execution
+Output ≠ outcome ≠ learning ≠ capability gain
+Documentation ≠ mastery
+Repository clone ≠ functional reproduction
+Functional centrality ≠ domination
+```
+
+**Conversion loss** refers here to the failure of existing potential to remain available, intelligible, legitimate, composable, or actionable as it passes through the transformations required for collective action. It is different from simply lacking a capability in the first place.
+
+---
+
+## Why Science Silk Road is a powerful empirical test
+
+China’s expanding international cooperation in science, technology, and innovation creates dense interfaces among:
+
+- laboratories and universities;
+- data infrastructures and standards;
+- scientists, engineers, administrators, and vendors;
+- multiple languages and institutional ontologies;
+- professional, political, technical, data, and operational authorities;
+- local capabilities and transnational dependencies.
+
+This makes the Science Silk Road a strong environment for testing questions such as:
+
+1. **Discoverability:** which existing capabilities become visible and mobilizable through cooperation?
+2. **Transition integrity:** what provenance, meaning, evidence, technical mastery, and authority survive key handoffs?
+3. **Capability–dependency co-production:** which capabilities grow while which dependencies deepen or shift?
+4. **Composition without absorption:** can systems cooperate without one technical, semantic, or institutional order becoming the unquestioned authority for the others?
+5. **Reconfigurability:** can the arrangement adapt when personnel, suppliers, standards, funding, or partnerships change?
+6. **Terminal dependency:** when does useful centrality become a condition in which continuation is no longer credible without one provider or center?
+7. **Cumulativity:** do outcomes return to institutional memory and increase future capability?
+
+These are hypotheses to test, not conclusions built into the framework.
+
+---
+
+## Koali as articulation architecture
+
+Koali’s components are best understood as **roles in a larger composition**, not as a claim that every specialized function should be rebuilt inside Koali.
+
+- **Kristal** — portable, provenance-bearing epistemic objects and memory.
+- **Konnaxion** — discovery, learning, contribution, collaboration, deliberation, and circulation.
+- **EkoH** — contextual expertise/credibility signals without becoming a universal truth authority.
+- **Smart Vote** — multiple explicit readings of a shared participation record rather than one mandatory scalar interpretation.
+- **Orgo** — signal/case/task routing, functional ownership, escalation, closure, and operational feedback.
+- **Kintsugi / Kompendio** — integration by explicit contracts, including **Mimic** and **Annex**, with replaceability and ownership boundaries preserved.
+
+A simplified loop is:
+
+```text
+Kristal
+  → Konnaxion
+  → deliberation / judgment / decision
+  → Orgo
+  → execution / outcome
+  → Kristal
+```
+
+The important property is the **continuity between capabilities**, including when a specialized external system performs one or more stages.
+
+See [Articulation Architecture](docs/12-articulation-architecture.md).
+
+---
+
+## Epistemic discipline
+
+This repository deliberately separates:
+
+1. **documented architecture** — what Koali currently specifies;
+2. **implementation status** — what is implemented or reported as implemented, with verification limits;
+3. **research interpretation** — concepts abstracted from construction;
+4. **empirical hypotheses** — claims to be tested outside Koali;
+5. **normative/design principles** — claims about what the architecture intends to preserve.
+
+Scenario coverage is not empirical validation. Internal coherence is not external proof. Public source code is not the same as functional reproduction. A detailed design is not automatically an implemented system.
+
+See [Claim–Evidence Matrix](evidence/CLAIM_EVIDENCE_MATRIX.md), [Current System Status](docs/10-current-system-status.md), and [Pressure-Test Method](docs/13-pressure-test-method.md).
+
+---
+
+## Reading paths
+
+### 5 minutes
 1. [Submission Note](SUBMISSION_NOTE.md)
 2. [Core Thesis](docs/01-core-thesis.md)
-3. [Science Silk Road Fit](docs/03-science-silk-road-fit.md)
+3. [Articulation Architecture](docs/12-articulation-architecture.md)
 
-### 30–45 minutes
-4. [Theory from Construction](docs/02-theory-from-construction.md)
+### 20 minutes
+4. [Science Silk Road Fit](docs/03-science-silk-road-fit.md)
 5. [Capability Trajectories](docs/04-capability-trajectories.md)
-6. [Authority, Provenance, and Critical Transitions](docs/05-authority-provenance-transitions.md)
+6. [Authority, Provenance, Semantics, and Critical Transitions](docs/05-authority-provenance-transitions.md)
 7. [Research Design](docs/09-research-design.md)
 
 ### Deep dive
-8. [Dialogue with Han Cheng](docs/06-dialogue-han-cheng.md)
-9. [Dialogue with Anna Lisa Ahlers](docs/07-dialogue-anna-ahlers.md)
-10. [Dialogue with Hang Zhou](docs/08-dialogue-hang-zhou.md)
-11. [Current kOA System Status](docs/10-current-system-status.md)
-12. [Claim–Evidence Matrix](evidence/CLAIM_EVIDENCE_MATRIX.md)
-13. [kOA Source Map](evidence/KOA_SOURCE_MAP.md)
-14. [Chronology and Priority Protocol](evidence/CHRONOLOGY_AND_PRIORITY.md)
+8. [Theory from Construction](docs/02-theory-from-construction.md)
+9. [Dialogue with Han Cheng](docs/06-dialogue-han-cheng.md)
+10. [Dialogue with Anna Lisa Ahlers](docs/07-dialogue-anna-ahlers.md)
+11. [Dialogue with Hang Zhou](docs/08-dialogue-hang-zhou.md)
+12. [Pressure-Test Method](docs/13-pressure-test-method.md)
+13. [Conceptual Foundations](docs/11-conceptual-foundations.md)
+14. [kOA Source Map](evidence/KOA_SOURCE_MAP.md)
 15. [Selected Bibliography](references/SELECTED_BIBLIOGRAPHY.md)
-16. [Conceptual Foundations and Public Design Lineage](docs/11-conceptual-foundations.md)
-17. [Relevant Links](references/LINKS.md)
+
+### Submission texts
+- [300-word pitch](submissions/300-word-pitch.md)
+- [750-word research proposal](submissions/750-word-research-proposal.md)
+- [Article-length manuscript](submissions/article-3000-words.md)
+- Word versions are in [`submissions/word/`](submissions/word/).
 
 ---
 
-## Core proposition in one diagram
+## Scope and non-claims
 
-```text
-Scientific infrastructure / partnership
-                │
-                ▼
-      access + resources + standards
-                │
-                ▼
-      situated scientific practice
-                │
-                ▼
-  capability formation across functions
-                │
-                ├── operate
-                ├── maintain
-                ├── validate / interpret
-                ├── adapt / modify
-                ├── govern / set agendas
-                ├── teach / transmit
-                └── reconfigure under change
-                │
-                ▼
-      institutionalization over time
-                │
-                ▼
-      capability reproduction
-                │
-                ├── continuity
-                ├── accumulated learning
-                └── new scientific agency
+This dossier does **not** claim that Koali empirically explains the Science Silk Road in advance. It does not claim that China uniquely causes dependency, that local autonomy is always preferable, or that decentralization is inherently superior to centralization.
 
-At every transition:
-Who knows? Who can act? Who authorizes? Who owns the data?
-What evidence survives? What dependencies deepen or weaken?
-```
+It proposes a testable middle-level framework:
 
+> **Study how heterogeneous scientific capabilities become articulated across transitions, what is preserved or lost, which authorities and dependencies are reconfigured, and whether the resulting arrangements become cumulative and reconfigurable over time.**
+
+Science Silk Road cases should be able to **support, narrow, revise, or reject** those propositions.
 
 ---
 
-## Concrete knowledge-exchange proposition: Kristal
-
-One concrete implication of the kOA architecture for transnational science is that scientific knowledge does not need to wait until it becomes a paper, database release, or formally recognized result before it can be represented in a portable form.
-
-A **Kristal** can encode a working scientific object such as a research hypothesis, theory, claim, technical declaration, or invention disclosure as a structured epistemic artifact with explicit provenance, scope, certainty, status, authority references, evidence, and lineage. Kristal v5 explicitly separates artifact existence from validation and recognition, so an artifact can be structurally valid and shareable while its assertions remain explicitly labeled `hypothesis`, `claimed`, `sourced`, or `disputed`, or while the artifact itself remains under review, rather than being presented as established fact.
-
-```text
-research note / theory / hypothesis / invention disclosure
-                         │
-                         ▼
-             Structured Epistemic State
-                         │
-                         ▼
-              working Kristal artifact
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-      review /       query / AI     federation /
-     validation          use         distribution
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-              SemantiK Architect
-                         │
-                         ▼
-         deterministic multilingual rendering
-```
-
-This creates a possible **semantic exchange layer for science**: institutions can circulate structured knowledge objects across languages and technical environments without collapsing uncertainty, disagreement, provenance, or authority into undifferentiated prose. The Kristal documentation describes the format as **AI-ready** and queryable; SemantiK Architect provides language-independent-to-language rendering with deterministic multilingual goals.
-
-In this dossier, **semantic Kristal** is useful shorthand for this combined capability—Kristal as the structured epistemic object plus semantic resolution/rendering around it. It is **not** presented as a separate Kristal v5 artifact type.
-
-### Intellectual-property boundary
-
-A Kristal may document an **invention disclosure or pre-patent research record**, but it is **not** a patent application, patent-office filing, legal registration, or guarantee of patent priority. WIPO advises that public disclosure before filing can destroy novelty in many jurisdictions, subject to jurisdiction-specific exceptions or grace periods. Patent-sensitive Kristals should therefore be governed by appropriate confidentiality and reader/distribution policies until the relevant filing or disclosure decision has been made.
-
-- WIPO patent FAQ: https://www.wipo.int/en/web/patents/faq_patents
-- WIPO, *How to Protect Inventions through Patents*: https://www.wipo.int/en/web/patents/protection
-
-## Conceptual lineage: knowledge cooperation → semantic exchange → action
-
-A set of public essays documents the conceptual path behind the architecture. For this Science Silk Road dossier, the most relevant sequence is:
-
-```text
-Knowledge Peacebuilding
-→ Knowledge Has Left the Temple
-→ Kristal
-→ Semantic Web / SemantiK
-→ AI-readable operational knowledge
-→ expertise-sensitive governance
-→ Konnaxion → Orgo
-```
-
-The essays are treated as **design rationale and public conceptual lineage**, not as external empirical evidence. Their value is to show how the peacebuilding, open-contribution, structured-knowledge, multilingual, AI, governance, and action layers were conceived as parts of one system.
-
-See [Conceptual Foundations and Public Design Lineage](docs/11-conceptual-foundations.md) for the full mapping and all fourteen supplied Medium articles.
-
-## Current public anchors
+## Public anchors
 
 ### Science Silk Road
-- Project website: https://sciencesilkroad.mpiwg-berlin.mpg.de/
-- MPIWG project page: https://www.mpiwg-berlin.mpg.de/research/projects/chinas-science-silk-road-and-new-geopolitics-knowledge-production
-- Anna Lisa Ahlers: https://www.mpiwg-berlin.mpg.de/people/alahlers
-- Han Cheng: https://www.mpiwg-berlin.mpg.de/people/hcheng
-- Hang Zhou: https://www.fss.ulaval.ca/notre-faculte/repertoire-du-personnel/hang-zhou
-- Lise Meitner Research Group: https://www.mpiwg-berlin.mpg.de/research/LMRG-china-science/about
+- https://sciencesilkroad.mpiwg-berlin.mpg.de/
+- https://www.mpiwg-berlin.mpg.de/research/projects/chinas-science-silk-road-and-new-geopolitics-knowledge-production
 
-### kOA
-- Public hub: https://initkoa.org/
-- GitHub profile: https://github.com/Rejean-McCormick
-- Konnaxion: https://initkoa.org/platforms/konnaxion
-- Konnaxion journeys: https://initkoa.org/platforms/konnaxion/journeys
-- Konnaxion technical foundations: https://initkoa.org/platforms/konnaxion/technical
-- Context packs / current public versions: https://initkoa.org/technology/context-packs
-- kOA-Linux repository: https://github.com/Rejean-McCormick/kOA-Linux
-- Konnaxion repository: https://github.com/Rejean-McCormick/Konnaxion
-- Orgo repository: https://github.com/Rejean-McCormick/Orgo
-- Kristal Framework: https://github.com/Rejean-McCormick/kristal-framework
-- SemantiK Architect: https://github.com/Rejean-McCormick/SemantiK_Architect
-
----
-
-## Scope note
-
-This repository separates three levels that should not be conflated:
-
-1. **Documented kOA architecture and implementation** — claims supported by public repositories, current documentation, or the supplied source archive.
-2. **Research interpretation** — concepts abstracted from that architecture, such as capability trajectories and functional distributions of authority.
-3. **Research hypotheses** — propositions to be tested empirically in the Science Silk Road context.
-
-The dossier intentionally avoids presenting kOA as proof that its derived theory is correct. Construction generates hypotheses; field research must test them.
+### Koali / kOA
+- https://initkoa.org/
+- https://github.com/Rejean-McCormick
+- https://github.com/Rejean-McCormick/kOA_Digital_Ecosystem
+- https://github.com/Rejean-McCormick/Konnaxion
+- https://github.com/Rejean-McCormick/Orgo
+- https://github.com/Rejean-McCormick/kristal-framework
+- https://github.com/Rejean-McCormick/SemantiK_Architect

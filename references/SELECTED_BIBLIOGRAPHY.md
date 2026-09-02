@@ -1,82 +1,59 @@
 # Selected Bibliography
 
-This is a focused reading list for the proposed dialogue. It is not intended as a complete literature review.
+This bibliography supports the research bridge. It is not a complete literature review.
 
-## Han Cheng
+## Knowledge transfer, boundaries, and organizational learning
 
-1. Cheng, Han. **“Global China’s spatial ambition and area studies with geography.”** *Transactions of the Institute of British Geographers* (2025).  
-   https://doi.org/10.1111/tran.70027
+- Bell, Martin, and Keith Pavitt. 1993. “Technological Accumulation and Industrial Growth: Contrasts Between Developed and Developing Countries.” *Industrial and Corporate Change* 2(2): 157–210. https://doi.org/10.1093/icc/2.2.157
+- Carlile, Paul R. 2004. “Transferring, Translating, and Transforming: An Integrative Framework for Managing Knowledge Across Boundaries.” *Organization Science* 15(5): 555–568. https://doi.org/10.1287/orsc.1040.0094
+- Cohen, Wesley M., and Daniel A. Levinthal. 1990. “Absorptive Capacity: A New Perspective on Learning and Innovation.” *Administrative Science Quarterly* 35(1): 128–152. https://doi.org/10.2307/2393553
+- Helfat, Constance E., and Margaret A. Peteraf. 2003. “The Dynamic Resource-Based View: Capability Lifecycles.” *Strategic Management Journal* 24(10): 997–1010. https://doi.org/10.1002/smj.332
+- Star, Susan Leigh, and James R. Griesemer. 1989. “Institutional Ecology, ‘Translations’ and Boundary Objects: Amateurs and Professionals in Berkeley’s Museum of Vertebrate Zoology, 1907–39.” *Social Studies of Science* 19(3): 387–420. https://doi.org/10.1177/030631289019003001
+- Szulanski, Gabriel. 1996. “Exploring Internal Stickiness: Impediments to the Transfer of Best Practice within the Firm.” *Strategic Management Journal* 17(S2): 27–43. https://doi.org/10.1002/smj.4250171105
+- Walsh, James P., and Gerardo Rivera Ungson. 1991. “Organizational Memory.” *Academy of Management Review* 16(1): 57–91. https://doi.org/10.5465/AMR.1991.4278992
 
-2. Cheng, Han, and Weidong Liu. **“Geography, area studies and Chinese world-writing.”** *Progress in Human Geography* (2022).  
-   https://doi.org/10.1177/03091325221096179
+## Infrastructure, maintenance, and dependency
 
-3. Cheng, Han, and Deen Sharp. **“Worlding geography, area studies and the study of area.”** *Transactions of the Institute of British Geographers* (2025).  
-   https://doi.org/10.1111/tran.70025
+- El-Kadi, Tin Hinane. 2024. “Learning along the Digital Silk Road? Technology Transfer, Power, and Chinese ICT Corporations in North Africa.” *The Information Society* 40(2): 136–153. https://doi.org/10.1080/01972243.2024.2317060
+- Graham, Stephen, and Nigel Thrift. 2007. “Out of Order: Understanding Repair and Maintenance.” *Theory, Culture & Society* 24(3): 1–25. https://doi.org/10.1177/0263276407075954
 
-4. Cheng, Han, and Weidong Liu. **“Temporality and the Geopolitical Enframing of Chinese International Development Thinking.”** *Geopolitics*.  
-   https://doi.org/10.1080/14650045.2022.2089563
+## Expertise, authority, and science-policy boundaries
 
-5. Cheng, Han, Emma Mawdsley, and Weidong Liu. **“Reading the Forum on China–Africa Cooperation (2000–2021): geoeconomics, governance, and embedding ‘creative involvement’.”** *Area Development and Policy*.  
-   https://doi.org/10.1080/23792949.2022.2092018
+- Collins, H. M., and Robert Evans. 2002. “The Third Wave of Science Studies: Studies of Expertise and Experience.” *Social Studies of Science* 32(2): 235–296. https://doi.org/10.1177/0306312702032002003
+- Guston, David H. 2001. “Boundary Organizations in Environmental Policy and Science: An Introduction.” *Science, Technology, & Human Values* 26(4): 399–408. https://doi.org/10.1177/016224390102600401
 
-6. Apostolopoulou, Elia, Han Cheng, Jonathan Silver, and Alan Wiig, eds. **The Material Geographies of the Belt and Road Initiative: Infrastructures and Political Ecologies on the New Silk Road.**  
-   Open access: https://library.oapen.org/handle/20.500.12657/108372
+## Han Cheng and Global China
+
+- Cheng, Han. 2025. “Global China’s Spatial Ambition and Area Studies with Geography.” *Transactions of the Institute of British Geographers* 50: e70027. https://doi.org/10.1111/tran.70027
+- Cheng, Han, and Weidong Liu. 2022. “Geography, Area Studies and Chinese World-Writing.” *Progress in Human Geography*. https://doi.org/10.1177/03091325221096179
+- Cheng, Han, and Deen Sharp. 2025. “Worlding Geography, Area Studies and the Study of Area.” *Transactions of the Institute of British Geographers*. https://doi.org/10.1111/tran.70025
+- Cheng, Han, Emma Mawdsley, and Weidong Liu. 2022. “Reading the Forum on China–Africa Cooperation (2000–2021): Geoeconomics, Governance, and Embedding ‘Creative Involvement’.” *Area Development and Policy*. https://doi.org/10.1080/23792949.2022.2092018
+- Apostolopoulou, Elia, Han Cheng, Jonathan Silver, and Alan Wiig, eds. 2025. *The Material Geographies of the Belt and Road Initiative: Infrastructures and Political Ecologies on the New Silk Road*. Bristol University Press. https://library.oapen.org/handle/20.500.12657/108372
 
 ## Anna Lisa Ahlers
 
-1. Ahlers, Anna L. **The Communist Party’s Steering of China’s Science, Technology, and Innovation System: Aspirations and Reality.** UC IGCC / MERICS (2024).  
-   https://ucigcc.org/publication/the-communist-partys-steering-of-chinas-science-technology-and-innovation-system-aspirations-and-reality/
-
-2. Ahlers, Anna L., and Stephanie Christmann-Budian. **“The Politics of University Rankings in China.”** *Higher Education* 86 (2023): 751–770.  
-   https://doi.org/10.1007/s10734-023-01014-y
-
-3. Ahlers, Anna L., and Yongdong Shen. **“Breathe Easy? Local Nuances of Authoritarian Environmentalism in China’s Battle Against Air Pollution.”** *The China Quarterly*.  
-   https://doi.org/10.1017/S0305741017001370
-
-4. Ahlers, Anna L., Damien Krichewsky, Evelyn Moser, and Rudolf Stichweh. **Democratic and Authoritarian Political Systems in 21st Century World Society.**  
-   https://doi.org/10.14361/9783839451267
-
-5. Ahlers, Anna L. **“Technocracy on the Ground: Cadre Competence, Expert Involvement, and Scientific Advice in China’s Local Governance.”** In *Handbook on Local Governance in China* (2023).  
-   Publisher: https://www.elgaronline.com/edcollchap/book/9781800883246/book-part-9781800883246-18.xml
+- Ahlers, Anna L. 2024. *The Communist Party’s Steering of China’s Science, Technology, and Innovation System: Aspirations and Reality*. UC IGCC / MERICS.
+- Ahlers, Anna L., and Stephanie Christmann-Budian. 2023. “The Politics of University Rankings in China.” *Higher Education* 86: 751–770. https://doi.org/10.1007/s10734-023-01014-y
+- Ahlers, Anna L., and Yongdong Shen. “Breathe Easy? Local Nuances of Authoritarian Environmentalism in China’s Battle Against Air Pollution.” *The China Quarterly*. https://doi.org/10.1017/S0305741017001370
 
 ## Hang Zhou
 
-1. Zhou, Hang. **“Western and Chinese Development Engagements in Uganda’s Roads Sector: An Implicit Division of Labour.”** *African Affairs* (2022).  
-   https://doi.org/10.1093/afraf/adac005
-
-2. Zhou, Hang. **“Unbinding Global China: Fieldnotes from a West African fishing port.”** *Dialogues in Human Geography* (2025).  
-   https://doi.org/10.1177/20438206251388520
-
-3. Zhou, Hang. **“Provincial variations and entrepreneurialism in the development of China’s Distant Water Fisheries (2011–2020).”** *Marine Policy* (2023).  
-   https://doi.org/10.1016/j.marpol.2022.105344
+- Zhou, Hang. 2022. “Western and Chinese Development Engagements in Uganda’s Roads Sector: An Implicit Division of Labour.” *African Affairs*. https://doi.org/10.1093/afraf/adac005
+- Zhou, Hang. 2023. “Provincial variations and entrepreneurialism in the development of China’s Distant Water Fisheries (2011–2020).” *Marine Policy*. https://doi.org/10.1016/j.marpol.2022.105344
 
 ## Project-level sources
 
-- China’s Science Silk Road project: https://sciencesilkroad.mpiwg-berlin.mpg.de/
+- China’s Science Silk Road: https://sciencesilkroad.mpiwg-berlin.mpg.de/
 - MPIWG project page: https://www.mpiwg-berlin.mpg.de/research/projects/chinas-science-silk-road-and-new-geopolitics-knowledge-production
-- Lise Meitner Research Group “China in the Global System of Science”: https://www.mpiwg-berlin.mpg.de/research/LMRG-china-science/about
 
+## Authorial / architectural sources
 
-## Authorial conceptual foundations (not external evidence)
+These document the development and architecture of Koali. They are **not independent scholarly evidence** for the empirical claims.
 
-The following public essays are included to document the design rationale and conceptual lineage of kOA. They should not be counted as independent scholarly support for the dossier's empirical claims.
-
-1. McCormick, Réjean. **“Knowledge Peacebuilding: Building Peace Through Knowledge and Cooperation.”** Medium.  
-   https://medium.com/@boatbuilder610/knowledge-peacebuilding-building-peace-through-knowledge-and-cooperation-a05ee980d068
-
-2. McCormick, Réjean. **“Kristal: the next infrastructure layer for reliable knowledge — and for developing knowledge.”** Medium.  
-   https://medium.com/@boatbuilder610/kristal-the-next-infrastructure-layer-for-reliable-knowledge-and-for-developing-knowledge-556f2926db51
-
-3. McCormick, Réjean. **“From the First Spoken Words to the Semantic Web.”** Medium.  
-   https://medium.com/@boatbuilder610/from-the-first-spoken-words-to-the-semantic-web-how-humanity-built-knowledge-networks-that-can-a36577c88f68
-
-4. McCormick, Réjean. **“Artificial Intelligences Need the World's Manuals.”** Medium.  
-   https://medium.com/@boatbuilder610/artificial-intelligences-need-the-worlds-manuals-06e8b53dff3e
-
-5. McCormick, Réjean. **“Knowledge Has Left the Temple.”** Medium.  
-   https://medium.com/@boatbuilder610/knowledge-has-left-the-temple-c2592e7ee8b2
-
-6. McCormick, Réjean. **“Konnaxion and Orgo: Starting from the Core.”** Medium.  
-   https://medium.com/@boatbuilder610/konnaxion-and-orgo-routing-knowledge-and-action-f6092dc0594d
-
-See `docs/11-conceptual-foundations.md` for the full fourteen-article relevance map.
+- Koali Initiative: https://initkoa.org/
+- GitHub profile: https://github.com/Rejean-McCormick
+- kOA Digital Ecosystem: https://github.com/Rejean-McCormick/kOA_Digital_Ecosystem
+- Konnaxion: https://github.com/Rejean-McCormick/Konnaxion
+- Orgo: https://github.com/Rejean-McCormick/Orgo
+- Kristal Framework: https://github.com/Rejean-McCormick/kristal-framework
+- SemantiK Architect: https://github.com/Rejean-McCormick/SemantiK_Architect

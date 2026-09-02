@@ -1,81 +1,113 @@
-# kOA Source Map
+# Koali Source Map
 
-This file maps the research claims in this dossier to the supplied kOA source archive and to current public documentation where available.
+This map identifies the project sources most relevant to the research claims. Public anchors are preferred where available. Some source-level design records originate in the supplied Koali archives and are summarized in this dossier; their presence should not be confused with external validation.
 
-## 1. Core architecture
+## 1. General theory and articulation
 
-| Research concept | Supplied source | Public anchor |
-|---|---|---|
-| System of systems | `kOA-Linux/wiki/System-of-Systems.md`; `kOA-Linux/wiki/Home.md` | https://github.com/Rejean-McCormick/kOA-Linux/wiki |
-| Knowledge-to-action loop | `kOA-Linux/wiki/Knowledge-to-Action-Loop.md` | https://github.com/Rejean-McCormick/kOA-Linux/wiki/Knowledge-to-Action-Loop |
-| Institutional memory | `kOA-Linux/wiki/Institutional-Memory-and-Learning.md` | https://github.com/Rejean-McCormick/kOA-Linux/wiki/Institutional-Memory-and-Learning |
-| Societal / organizational continuity | `kOA-Linux/wiki/Societal-Outcomes.md` | https://github.com/Rejean-McCormick/kOA-Linux/wiki/Societal-Outcomes |
+| Concept | Project source / dossier anchor |
+|---|---|
+| Distributed potential → collective agency | `Civilizational Coherence` canonical concept and formula registries; `docs/01-core-thesis.md` |
+| Conversion loss | `Civilizational Coherence` README, canonical concepts, invariants |
+| Interfaces / transitions as loss points | canonical conversion chain; traceability matrix |
+| Functional composability | canonical concept registry |
+| Articulation hub | `Centrality and the Articulation Hub`; `docs/12-articulation-architecture.md` |
+| Terminal dependency | canonical concept registry |
+| Maximum useful centrality + minimum terminal dependency | canonical formula/design heuristic |
+| Composition without absorption | canonical invariants; Kintsugi articulation model |
+| Independent reproducibility | Civilizational Coherence README; Open Good documentation |
 
-## 2. Authority and transitions
+## 2. Kintsugi / Kompendio
 
-| Research concept | Supplied source | Public anchor |
-|---|---|---|
-| Explicit authority | `kOA-Linux/docs/01-constitution/04-explicit-authority.md` | https://github.com/Rejean-McCormick/kOA-Linux/blob/main/docs/01-constitution/04-explicit-authority.md |
-| Global invariants | `kOA-Linux/docs/01-constitution/02-global-invariants.md` | https://github.com/Rejean-McCormick/kOA-Linux/blob/main/docs/01-constitution/02-global-invariants.md |
-| Critical transition receipts | `kOA-Linux/docs/02-system/20-receipts-and-critical-transitions.md` | https://github.com/Rejean-McCormick/kOA-Linux/blob/main/docs/02-system/20-receipts-and-critical-transitions.md |
-| Component separation | `kOA-Linux/docs/01-constitution/07-component-separation.md` | https://github.com/Rejean-McCormick/kOA-Linux/blob/main/docs/01-constitution/07-component-separation.md |
-| Data authority and ownership | `kOA-Linux/docs/01-constitution/08-data-authority-and-ownership.md` | https://github.com/Rejean-McCormick/kOA-Linux/blob/main/docs/01-constitution/08-data-authority-and-ownership.md |
+| Concept | Source |
+|---|---|
+| Integration ≠ merger | Kintsugi / Kompendio articulation model |
+| Mimic / Annex | Kintsugi documentation |
+| Shared contracts and replaceability | Kintsugi / Kompendio source corpus |
+| One coherent environment ≠ one monolithic codebase | Kintsugi articulation model |
 
-## 3. Capability, portability, and resilience
+Public ecosystem anchor: https://initkoa.org/
 
-| Research concept | Supplied source | Public anchor |
-|---|---|---|
-| Capability model | `kOA-Linux/docs/02-system/06-capability-model.md` | https://github.com/Rejean-McCormick/kOA-Linux/blob/main/docs/02-system/06-capability-model.md |
-| Capability degradation | `kOA-Linux/docs/02-system/17-capability-degradation.md` | https://github.com/Rejean-McCormick/kOA-Linux/blob/main/docs/02-system/17-capability-degradation.md |
-| Portability / restore / exit | `kOA-Linux/docs/01-constitution/11-portability-restore-and-exit.md` | https://github.com/Rejean-McCormick/kOA-Linux/blob/main/docs/01-constitution/11-portability-restore-and-exit.md |
-| Operational portability / exit | `kOA-Linux/docs/08-operations/10-portability-and-exit.md` | https://github.com/Rejean-McCormick/kOA-Linux/blob/main/docs/08-operations/10-portability-and-exit.md |
-| Offline continuity | `kOA-Linux/docs/01-constitution/09-offline-continuity.md` | https://github.com/Rejean-McCormick/kOA-Linux/blob/main/docs/01-constitution/09-offline-continuity.md |
-| Backup / restore | `kOA-Linux/docs/08-operations/08-backup.md`; `09-restore.md` | https://github.com/Rejean-McCormick/kOA-Linux/tree/main/docs/08-operations |
+## 3. Knowledge and provenance
 
-## 4. Evidence and expertise
+| Concept | Public anchor |
+|---|---|
+| Kristal framework | https://github.com/Rejean-McCormick/kristal-framework |
+| kOA Digital Ecosystem | https://github.com/Rejean-McCormick/kOA_Digital_Ecosystem |
+| Public context packs | https://initkoa.org/technology/context-packs |
+| Konnaxion technical architecture | https://initkoa.org/platforms/konnaxion/technical |
 
-| Research concept | Supplied source | Public anchor |
-|---|---|---|
-| Evidence ≠ scoring authority | `K-Port/docs/00-ekoh-expertise-claims-app-alignment.md` | Konnaxion public architecture: https://initkoa.org/platforms/konnaxion |
-| Structured claim evidence | `K-Port/docs/02-expertise-claim-evidence-model.md` | — |
-| Privacy / audit / contestability | `K-Port/docs/05-governance-privacy-and-audit.md` | — |
-| EkoH expertise + ethics ledger | `Konnaxion/wiki/EkoH.md` | https://github.com/Rejean-McCormick/Konnaxion/wiki/EkoH |
-| Smart Vote readings | `Konnaxion/wiki/Smart-Vote.md` | https://github.com/Rejean-McCormick/Konnaxion/wiki/Smart-Vote |
+Relevant research concepts:
 
-## 5. Knowledge artifacts and plural authority
+- provenance;
+- status / uncertainty;
+- lineage;
+- portable epistemic objects;
+- evidence distinct from derived interpretation.
 
-| Research concept | Supplied source | Public anchor |
-|---|---|---|
-| Portable epistemic artifacts | `kristal-framework/wiki/What-is-Kristal.md`; `Artifacts.md` | https://github.com/Rejean-McCormick/kristal-framework |
-| Provenance / validation / authority metadata | `kristal-framework/wiki/Artifacts.md` | https://github.com/Rejean-McCormick/kristal-framework/wiki/Artifacts |
-| Authority registries | `kristal-framework/wiki/Artifact-Authority-Registry.md` | https://github.com/Rejean-McCormick/kristal-framework/wiki/Artifact-Authority-Registry |
-| Plural authority / disagreement preservation | `kristal-framework/wiki/Concepts-and-Mental-Model.md`; Konnaxion public overview | https://initkoa.org/platforms/konnaxion |
-| Determinism / identity | `kristal-framework/wiki/Identity-and-Determinism.md` | https://github.com/Rejean-McCormick/kristal-framework/wiki/Identity-and-Determinism |
-| Hypotheses / claims / scientific assertions as explicit states | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/01-core-spec/assertion-status-and-certainty.md` | https://github.com/Rejean-McCormick/kristal-framework/tree/main/docs/Technical-Reference/kristal-docs-v5/01-core-spec |
-| Structured research material before final recognition | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/01-core-spec/structured-epistemic-state.md` | https://github.com/Rejean-McCormick/kristal-framework/tree/main/docs/Technical-Reference/kristal-docs-v5/01-core-spec |
-| AI-ready / queryable / exchange-oriented Kristal role | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/00-overview/ecosystem-integration.md` | https://github.com/Rejean-McCormick/kristal-framework/tree/main/docs/Technical-Reference/kristal-docs-v5/00-overview |
+## 4. Discovery, expertise, and judgment
 
-## 6. Execution and organizational learning
+| Concept | Public / project anchor |
+|---|---|
+| Konnaxion | https://github.com/Rejean-McCormick/Konnaxion |
+| EkoH | Konnaxion / supplied EkoH documentation |
+| Smart Vote | Konnaxion Smart Vote documentation |
 
-| Research concept | Supplied source | Public anchor |
-|---|---|---|
-| Cases / tasks / routing / accountability | `Orgo/wiki/Home.md` and technical reference | https://github.com/Rejean-McCormick/Orgo |
-| Cyclic review / pattern detection | `Orgo/wiki/Home.md`; `Orgo/docs/Technical-Reference/v3/8-orgo-cyclic-overview-labels-and-flow-rules.md` | https://github.com/Rejean-McCormick/Orgo |
-| Plan → Execute → Preserve | Konnaxion public journeys | https://initkoa.org/platforms/konnaxion/journeys |
+Key distinctions:
 
-## 7. Semantic and linguistic plurality
+```text
+Competence ≠ Mandate
+Reputation ≠ Truth
+Facts ≠ Readings
+OneParticipationRecord → MultipleReadings
+```
 
-| Research concept | Supplied source | Public anchor |
-|---|---|---|
-| Semantic sovereignty | `kOA-Linux/wiki/Semantic-Sovereignty.md` | https://github.com/Rejean-McCormick/kOA-Linux/wiki/Semantic-Sovereignty |
-| Multilingual operation | `kOA-Linux/wiki/Multilingual-Operation.md` | https://github.com/Rejean-McCormick/kOA-Linux/wiki/Multilingual-Operation |
-| Deterministic multilingual rendering | `SemantiK_Architect/wiki/Home.md` and technical docs | https://github.com/Rejean-McCormick/SemantiK_Architect |
-| Language-independent meaning → multilingual text | `SemantiK_Architect/wiki/What-SemantiK-Architect-Is.md`; `Conceptual-Flow-Meaning-to-Text.md` | https://github.com/Rejean-McCormick/SemantiK_Architect/wiki |
-| Kristal → Architect rendering with epistemic labels preserved | `kristal-framework/docs/Technical-Reference/kristal-docs-v5/06-integration/architect-rendering-contract.md` | https://github.com/Rejean-McCormick/kristal-framework/tree/main/docs/Technical-Reference/kristal-docs-v5/06-integration |
+## 5. Execution and operational memory
 
-## 8. Current version anchors
+| Concept | Public anchor |
+|---|---|
+| Orgo | https://github.com/Rejean-McCormick/Orgo |
+| Konnaxion journeys | https://initkoa.org/platforms/konnaxion/journeys |
 
-- Public context packs: https://initkoa.org/technology/context-packs
-- kOA-Linux supplied documentation changelog: `kOA-Linux/docs/CHANGELOG.md`
-- Konnaxion repo: https://github.com/Rejean-McCormick/Konnaxion
-- kOA-Linux repo: https://github.com/Rejean-McCormick/kOA-Linux
+Relevant chain:
+
+```text
+Signal → Case → Tasks → Ownership → Escalation → Closure → Review
+```
+
+## 6. Semantic interoperability
+
+| Concept | Public anchor |
+|---|---|
+| SemantiK Architect | https://github.com/Rejean-McCormick/SemantiK_Architect |
+| Kristal rendering/integration | https://github.com/Rejean-McCormick/kristal-framework |
+
+Relevant invariants from the canonical project corpus:
+
+```text
+Translation ≠ Equivalence
+SemanticCoherence ≠ UniversalOntology
+FluentText ≠ FaithfulMeaning
+```
+
+## 7. Replication, exit, and open-good target
+
+Project sources distinguish:
+
+```text
+RepositoryClone ≠ FunctionalReproduction
+ArchitecturallyForkable ≠ LegallyReusable
+IndependentInstance → OptionalFederation
+```
+
+This is a design target. Legal rights must be verified separately for every component; a public repository does not automatically establish reuse rights.
+
+## 8. Verification rule
+
+Before converting a technical statement into “implemented,” require where relevant:
+
+- source/code inspection;
+- version or commit record;
+- reproducible procedure or direct observation;
+- explicit limitations.
+
+The dossier therefore uses conservative language such as **documented architecture**, **design target**, **reported implementation**, or **pending verification** when independent evidence is incomplete.
