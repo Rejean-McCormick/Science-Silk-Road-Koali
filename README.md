@@ -1,7 +1,7 @@
 # Koali × China’s Science Silk Road
 ## Articulation, transition integrity, and cumulative scientific capability
 
-**Prepared by Réjean McCormick** — publication name of François Jourdain  
+**Prepared by Réjean McCormick** — 
 **Version:** 2026-09-02  
 **Purpose:** research dossier for *China’s Science Silk Road and the New Geopolitics of Knowledge Production*
 

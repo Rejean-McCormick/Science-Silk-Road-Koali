@@ -48,8 +48,7 @@ Science Silk Road empirical test environment
 
 The aim is not to use the Science Silk Road to validate Koali. It is to test whether an articulation-centered analysis adds explanatory value to the study of changing geographies of scientific cooperation and knowledge production.
 
-**François Jourdain**  
-publishing as **Réjean McCormick**  
-St-Joseph-de-Beauce, Québec, Canada  
+**Réjean McCormick**  
+Québec, Canada  
 rejean.mccormick@initkoa.org  
-francois.jourdain@hotmail.com
+

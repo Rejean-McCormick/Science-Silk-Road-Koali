@@ -23,8 +23,7 @@ The shortest reading path is:
 
 The complete article-length argument is available in `submissions/article-3000-words.md`.
 
-François Jourdain  
-publishing as Réjean McCormick  
-St-Joseph-de-Beauce, Québec, Canada  
+Réjean McCormick  
+Québec, Canada  
 rejean.mccormick@initkoa.org  
-francois.jourdain@hotmail.com
+

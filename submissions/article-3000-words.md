@@ -3,7 +3,7 @@
 
 Réjean McCormick
 
-Publication name of François Jourdain · St-Joseph-de-Beauce, Québec, Canada
+Québec, Canada
 
 rejean.mccormick@initkoa.org · [initkoa.org](https://initkoa.org)
 
@@ -177,6 +177,6 @@ Science Silk Road Project. 2026. “China’s Science Silk Road and the New Geop
 
 # Author bio
 
-Réjean McCormick is the publication name of François Jourdain, an independent systems architect based in St-Joseph-de-Beauce, Québec. He is developing Koali (kOA), a sociotechnical articulation architecture concerned with knowledge-to-action transitions, provenance, differentiated authority, institutional memory, and cumulative collective capability. His current work examines how these architectural propositions can be pressure-tested against real institutional and transnational systems.
+Réjean McCormick is an independent systems architect based in, Québec. He is developing Koali (kOA-Linux), a sociotechnical articulation architecture concerned with knowledge-to-action transitions, provenance, differentiated authority, institutional memory, and cumulative collective capability. His current work examines how these architectural propositions can be pressure-tested against real institutional and transnational systems.
 
 Contact: rejean.mccormick@initkoa.org · [initkoa.org](https://initkoa.org) · [github.com/Rejean-McCormick](https://github.com/Rejean-McCormick)

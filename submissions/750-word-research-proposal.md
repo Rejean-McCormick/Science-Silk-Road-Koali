@@ -1,9 +1,9 @@
 # From Connection to Cumulative Capability
 ## Research proposal — transition integrity and articulation along China’s Science Silk Road
 
-François Jourdain · publishing as Réjean McCormick
+Réjean McCormick
 
-St-Joseph-de-Beauce, Québec, Canada · rejean.mccormick@initkoa.org
+Québec, Canada · rejean.mccormick@initkoa.org
 
 Word count: 676 words (body only)
 

@@ -1,9 +1,9 @@
 # What Survives the Transfer?
 ## 300-word pitch — articulation and scientific capability along China’s Science Silk Road
 
-Réjean McCormick · publication name of François Jourdain
+Réjean McCormick
 
-St-Joseph-de-Beauce, Québec, Canada · rejean.mccormick@initkoa.org
+Québec, Canada · rejean.mccormick@initkoa.org
 
 Word count: 253 words (body only)
 
